@@ -1,0 +1,926 @@
+Unnamed: 0,tconst,primaryTitle,originalTitle,runtimeMinutes,numVotes,label,year
+2,tt0009369,Mickey,Mickey,93,1119.0,False,1918
+15,tt0014142,The Hunchback of Notre Dame,,133,5288.0,True,1923
+21,tt0014945,Girl Shy,Girl Shy,87,3327.0,True,1924
+45,tt0017048,A Page of Madness,,70,3357.0,True,1926
+48,tt0017350,The Scarlet Letter,,115,1768.0,True,1926
+51,tt0017961,Happiness,,95,1080.0,True,1935
+52,tt0018054,The King of Kings,The King of Kings,160,2081.0,True,1927
+72,tt0019429,Street Angel,Street Angel,102,2314.0,True,1928
+79,tt0020768,City Girl,,77,3199.0,True,1930
+98,tt0022599,A Nous la Liberte,À nous la liberté,104,4392.0,True,1931
+154,tt0027075,A Tale of Two Cities,A Tale of Two Cities,128,5596.0,True,1935
+161,tt0027441,Charlie Chan at the Race Track,Charlie Chan at the Race Track,70,1461.0,True,1936
+184,tt0028575,Angel,,91,2698.0,True,1937
+219,tt0031002,The Young in Heart,The Young in Heart,90,1332.0,True,1938
+220,tt0031022,The Adventures of Sherlock Holmes,,85,6616.0,True,1939
+224,tt0031149,Charlie Chan in Reno,Charlie Chan in Reno,71,1366.0,True,1939
+241,tt0031754,On Borrowed Time,On Borrowed Time,99,1896.0,True,1939
+245,tt0031867,The Roaring Twenties,,106,13611.0,True,1939
+264,tt0032484,Foreign Correspondent,Foreign Correspondent,120,19974.0,True,1940
+269,tt0032701,The Letter,The Letter,95,12714.0,True,1940
+284,tt0033477,Come Live with Me,,86,2011.0,True,1941
+285,tt0033532,All That Money Can Buy,All That Money Can Buy,107,4908.0,True,1941
+288,tt0033677,The Great Lie,,108,3811.0,True,1941
+296,tt0033836,The Little Foxes,,116,11473.0,True,1941
+298,tt0033873,Man Hunt,Man Hunt,105,5231.0,True,1941
+299,tt0033874,The Man Who Came to Dinner,The Man Who Came to Dinner,112,7446.0,True,1942
+315,tt0034694,Edge of Darkness,,119,2249.0,True,1943
+332,tt0035417,The Talk of the Town,,118,8004.0,True,1942
+344,tt0036098,Lassie Come Home,,89,5312.0,True,1943
+349,tt0036342,Shadow of a Doubt,,108,63245.0,True,1943
+353,tt0036430,This Is the Army,,121,1125.0,False,1943
+376,tt0037323,The Fighting Sullivans,,112,2182.0,True,1944
+378,tt0037415,The Uninvited,,99,10837.0,True,1944
+402,tt0038559,Gilda,,110,31218.0,True,1946
+419,tt0038975,The Spiral Staircase,The Spiral Staircase,83,9752.0,True,1946
+443,tt0039677,Odd Man Out,,116,9778.0,True,1947
+459,tt0040495,Johnny Belinda,Johnny Belinda,102,4659.0,True,1948
+500,tt0041954,Tension,,95,2841.0,True,1949
+506,tt0042210,Utopia,,100,1961.0,False,1950
+521,tt0042898,The Rocking Horse Winner,The Rocking Horse Winner,91,1137.0,True,1949
+524,tt0042994,Stage Fright,,110,13796.0,True,1950
+527,tt0043137,Winchester '73,,92,19181.0,True,1950
+555,tt0044406,Bela Lugosi Meets a Brooklyn Gorilla,,74,2431.0,False,1952
+556,tt0044418,Big Jim McLain,Big Jim McLain,90,2109.0,False,1952
+573,tt0045161,The Sniper,,88,3221.0,True,1952
+584,tt0045555,The Big Heat,,89,25741.0,True,1953
+591,tt0045883,Hondo,,83,10528.0,True,1953
+597,tt0046031,The Man Between,The Man Between,100,1985.0,True,1953
+599,tt0046183,Peter Pan,,77,133598.0,True,1953
+606,tt0046511,Journey to Italy,Viaggio in Italia,85,10024.0,True,1954
+607,tt0046672,"20,000 Leagues Under the Sea","20,000 Leagues Under the Sea",127,32615.0,True,1954
+621,tt0047444,Samurai I: Musashi Miyamoto,,93,8299.0,True,1954
+631,tt0047834,Animal Farm,Animal Farm,72,16651.0,True,1954
+634,tt0047892,Bob le Flambeur,Bob le flambeur,98,11596.0,True,1956
+637,tt0048002,Don Camillo e l'on. Peppone,,97,2039.0,True,1955
+642,tt0048275,Merry-Go-Round,,95,1388.0,True,1956
+659,tt0048641,Smiles of a Summer Night,Sommarnattens leende,109,13273.0,True,1955
+660,tt0048673,Summertime,Summertime,102,8261.0,True,1955
+661,tt0048682,Swamp Women,Swamp Women,84,1842.0,False,1956
+665,tt0048820,Princess Yang Kwei-fei,,98,1812.0,True,1955
+667,tt0048947,Anastasia,Anastasia,105,8251.0,True,1956
+669,tt0048981,The Band of Honest Men,La banda degli onesti,106,1386.0,True,1956
+685,tt0049470,The Man Who Knew Too Much,The Man Who Knew Too Much,120,62173.0,True,1956
+703,tt0049871,A Town Like Alice,A Town Like Alice,117,1579.0,True,1956
+739,tt0051087,The Tin Star,The Tin Star,93,5635.0,True,1957
+752,tt0051792,The Music Room,,100,5731.0,True,1958
+755,tt0051899,Man of the West,,100,7608.0,True,1958
+761,tt0052017,Brink of Life,,84,2864.0,True,1958
+774,tt0052311,Touch of Evil,,95,102193.0,True,1958
+775,tt0052357,Vertigo,Vertigo,128,386315.0,True,1958
+782,tt0052611,The Giant Behemoth,,80,2531.0,False,1959
+784,tt0052654,The Bridge,Die Brücke,103,7593.0,True,1959
+805,tt0053050,Marie-Octobre,,90,1173.0,True,1959
+814,tt0053241,Santa Claus,Santa Claus,94,4838.0,False,1959
+823,tt0053403,The Cow and I,La vache et le prisonnier,118,1408.0,True,1959
+834,tt0053651,Beyond the Time Barrier,,75,1452.0,False,1960
+839,tt0053779,La Dolce Vita,La dolce vita,174,70579.0,True,1960
+860,tt0054198,Never on Sunday,Pote tin Kyriaki,91,5559.0,True,1960
+868,tt0054333,Horrors of Spider Island,,89,3926.0,False,1960
+879,tt0054476,Wild River,,110,5157.0,True,1960
+888,tt0054745,Chronicle of a Summer,Chronique d'un été (Paris 1960),85,2870.0,True,1961
+900,tt0055153,Mother Joan of the Angels,Matka Joanna od Aniolów,110,3154.0,True,1961
+917,tt0055614,West Side Story,West Side Story,153,104194.0,True,1961
+920,tt0055724,The Expedition,Abhijaan,150,1171.0,True,1962
+922,tt0055796,Billy Budd,Billy Budd,123,4216.0,True,1962
+925,tt0055830,Carnival of Souls,,78,23396.0,True,1962
+931,tt0055972,Experiment in Terror,,123,5071.0,True,1962
+956,tt0056444,An Autumn Afternoon,Sanma no aji,113,8764.0,True,1962
+959,tt0056628,"The Stars Will Tell, Inspector Palmu","Tähdet kertovat, komisario Palmu.",100,1155.0,True,1962
+963,tt0056825,America America,America America,174,5338.0,True,1963
+1023,tt0058382,Murder Ahoy,Murder Ahoy,93,5025.0,True,1964
+1024,tt0058384,Muscle Beach Party,,95,1579.0,False,1964
+1039,tt0058642,Shadows of Forgotten Ancestors,,97,6723.0,True,1965
+1049,tt0059037,The Cincinnati Kid,,102,16161.0,True,1965
+1058,tt0059260,Help!,Help!,92,19371.0,True,1965
+1069,tt0059573,A Patch of Blue,A Patch of Blue,105,8037.0,True,1965
+1076,tt0059740,The Sons of Katie Elder,,122,16891.0,True,1965
+1080,tt0059855,Havoc in Heaven,Da nao tian gong,114,1942.0,True,1963
+1090,tt0060186,"Boy, Did I Get a Wrong Number!",,99,1096.0,False,1966
+1102,tt0060560,The Pornographers,Erogotoshi-tachi yori: Jinruigaku nyûmon,128,2271.0,True,1966
+1126,tt0061203,Women of the Prehistoric Planet,,90,1095.0,False,1966
+1150,tt0061653,Fathom,Fathom,99,1531.0,False,1967
+1179,tt0062310,The Stranger,Lo straniero,104,2525.0,True,1967
+1183,tt0062456,"War and Peace, Part IV: Pierre Bezukhov",,100,1300.0,True,1967
+1190,tt0062759,The Diamond Arm,,94,14149.0,True,1969
+1199,tt0062994,Funny Girl,,151,21696.0,True,1968
+1212,tt0063260,The Magus,,117,1698.0,False,1968
+1216,tt0063374,The Odd Couple,The Odd Couple,105,33858.0,True,1968
+1230,tt0063787,Vixen!,Vixen!,70,2755.0,False,1968
+1237,tt0064040,Army of Shadows,L'armée des ombres,145,22660.0,True,1969
+1244,tt0064208,Death Rides a Horse,,120,8000.0,True,1967
+1269,tt0065067,The Witness,,105,6676.0,True,1969
+1301,tt0066078,Michael the Brave,Mihai Viteazul,203,6295.0,True,1971
+1313,tt0066473,Tora! Tora! Tora!,,144,33371.0,True,1970
+1321,tt0066546,Why Does Herr R. Run Amok?,,88,2532.0,True,1970
+1324,tt0066580,Woodstock,Woodstock,184,16883.0,True,1970
+1328,tt0066758,Amar Prem,,143,1676.0,True,1972
+1335,tt0066848,Blood and Lace,,87,1029.0,False,1971
+1362,tt0067439,Mon Oncle Antoine,,104,2833.0,True,1971
+1365,tt0067491,Night of Dark Shadows,Night of Dark Shadows,95,1556.0,False,1971
+1366,tt0067515,Octaman,,79,1076.0,False,1971
+1369,tt0067595,The Point,,90,2654.0,True,1971
+1379,tt0067815,Sinbad,,90,1479.0,True,1971
+1397,tt0068282,Black Mama White Mama,,87,3110.0,False,1973
+1401,tt0068348,The Castle of Purity,El castillo de la pureza,110,1507.0,True,1973
+1405,tt0068415,Seven Deaths in the Cat's Eyes,,95,1413.0,False,1973
+1434,tt0069120,Indian Summer,,132,2046.0,True,1972
+1438,tt0069281,Sleuth,,138,46745.0,True,1972
+1447,tt0069518,The New One-Armed Swordsman,Xin du bi dao,98,1508.0,True,1971
+1458,tt0069909,Un comisar acuza,,114,1007.0,True,1974
+1485,tt0070544,Fantastic Planet,,72,28823.0,True,1973
+1486,tt0070641,Slap the Monster on Page One,Sbatti il mostro in prima pagina,86,1260.0,True,1972
+1490,tt0070694,"Silent Night, Bloody Night",,81,4179.0,False,1972
+1505,tt0071222,Black Christmas,Black Christmas,98,37871.0,True,1974
+1508,tt0071359,Immoral Tales,Contes immoraux,103,4469.0,False,1973
+1516,tt0071607,Herbie Rides Again,,88,7849.0,False,1974
+1531,tt0072317,The Trial of Billy Jack,The Trial of Billy Jack,170,1350.0,False,1974
+1538,tt0072752,The Beast,La bête,98,4656.0,False,1975
+1554,tt0073008,The Fortune,,88,2705.0,False,1975
+1564,tt0073345,The Man in the Glass Booth,,117,1227.0,True,1975
+1578,tt0073781,Queen of the Gypsies,,101,1579.0,True,1976
+1579,tt0073817,Swept Away,,114,5910.0,True,1974
+1593,tt0074400,The Desert of the Tartars,,140,2140.0,True,1976
+1594,tt0074408,Jack the Ripper,Jack the Ripper,92,1667.0,False,1976
+1601,tt0074486,Eraserhead,Eraserhead,89,110859.0,True,1977
+1614,tt0074695,Cross of Iron,,132,26186.0,True,1977
+1615,tt0074720,The Toy,,95,5087.0,True,1976
+1618,tt0074749,The Killing of a Chinese Bookie,,135,12464.0,True,1976
+1633,tt0075164,Satan's Slave,Satan's Slave,86,1812.0,False,1976
+1640,tt0075648,Airport '77,Airport '77,114,10430.0,False,1977
+1647,tt0075753,Bilitis,Bilitis,95,1906.0,False,1977
+1659,tt0075993,An Enemy of the People,,103,1369.0,True,1978
+1660,tt0076001,La escopeta nacional,,95,1810.0,True,1978
+1665,tt0076161,The Hound of the Baskervilles,,85,1112.0,False,1978
+1669,tt0076276,Who's Singin' Over There?,,86,14982.0,True,1980
+1675,tt0076417,Mr. Billion,Mr. Billion,89,1192.0,False,1977
+1681,tt0076727,Office Romance,,159,8854.0,True,1977
+1687,tt0076825,Tintorera: Killer Shark,¡Tintorera!,126,1308.0,False,1977
+1688,tt0076855,"One Sings, the Other Doesn't",,120,1742.0,True,1977
+1690,tt0076935,The Yellow Handkerchief,,108,1083.0,True,1977
+1695,tt0077234,The Big Sleep,The Big Sleep,99,4646.0,False,1978
+1705,tt0077416,The Deer Hunter,The Deer Hunter,183,327327.0,True,1978
+1721,tt0077766,Jaws 2,,116,75889.0,False,1978
+1761,tt0079219,Going in Style,Going in Style,97,3099.0,True,1979
+1792,tt0080149,Woyzeck,Woyzeck,80,9496.0,True,1979
+1823,tt0081269,Oh Heavenly Dog,Oh Heavenly Dog,103,2516.0,False,1980
+1831,tt0081616,La terrazza,,150,1500.0,True,1980
+1843,tt0082158,Chariots of Fire,Chariots of Fire,125,58079.0,True,1981
+1853,tt0082346,Evilspeak,Evilspeak,97,4027.0,False,1981
+1860,tt0082432,Gallipoli,,110,38701.0,True,1981
+1868,tt0082559,Hell of the Living Dead,Virus,99,5089.0,False,1980
+1881,tt0082796,Naram Garam,Naram Garam,122,1030.0,True,1981
+1892,tt0082979,Reds,Reds,195,22199.0,True,1981
+1903,tt0083248,Umrao Jaan,Umrao Jaan,145,1025.0,True,1981
+1907,tt0083275,Variola Vera,Variola vera,110,2583.0,True,1982
+1923,tt0083833,Diner,,110,20435.0,True,1982
+1924,tt0083865,Dogkeselyu,Dögkeselyü,115,1078.0,True,1982
+1940,tt0084345,My Friend Ivan Lapshin,,100,2279.0,True,1985
+1948,tt0084465,The Prefab People,Panelkapcsolat,102,1118.0,True,1982
+1951,tt0084516,Poltergeist,,114,155169.0,True,1982
+1952,tt0084518,Flights in Dreams and in Reality,,92,1118.0,True,1983
+1962,tt0084684,Silent Rage,,100,5591.0,False,1982
+1972,tt0084809,The Toy,,102,13125.0,False,1982
+1977,tt0084899,White Dog,,90,9448.0,True,1982
+1989,tt0085328,The Key,,116,2770.0,False,1983
+1992,tt0085370,Entre Nous,,110,1823.0,True,1983
+2000,tt0085514,The Exterminators of the Year 3000,Il giustiziere della strada,83,1129.0,False,1983
+2012,tt0085776,Katha,,141,1187.0,True,1983
+2047,tt0086370,The Sting II,The Sting II,101,2199.0,False,1983
+2049,tt0086394,Die Supernasen,Die Supernasen,88,1093.0,False,1983
+2073,tt0086981,Bloodbath at the House of Death,Bloodbath at the House of Death,92,1721.0,False,1984
+2092,tt0087469,Indiana Jones and the Temple of Doom,Indiana Jones and the Temple of Doom,118,469229.0,True,1984
+2096,tt0087589,Lassiter,Lassiter,100,2417.0,False,1984
+2111,tt0087884,"Paris, Texas",,145,100864.0,True,1984
+2126,tt0088286,Top Secret!,,90,64256.0,True,1984
+2139,tt0088847,The Breakfast Club,The Breakfast Club,97,376441.0,True,1985
+2146,tt0088993,Day of the Dead,,101,66989.0,True,1985
+2149,tt0089066,Detective,,95,1930.0,False,1985
+2154,tt0089200,Ghoulies,,81,9022.0,False,1984
+2161,tt0089378,Making Contact,Joey,98,1491.0,False,1985
+2166,tt0089562,Massacre in Dinosaur Valley,,88,1976.0,False,1985
+2178,tt0089755,Out of Africa,,161,77040.0,True,1985
+2188,tt0089960,Vagabond,Sans toit ni loi,105,10520.0,True,1985
+2197,tt0090196,Transylvania 6-5000,,93,7399.0,False,1985
+2211,tt0090750,Blood Hook,Blood Hook,92,1165.0,False,1986
+2215,tt0090859,Cobra,,87,70908.0,False,1986
+2232,tt0091209,The Hitcher,,97,46000.0,True,1986
+2237,tt0091306,Jumpin' Jack Flash,,105,19058.0,False,1986
+2258,tt0091778,Poltergeist II: The Other Side,Poltergeist II: The Other Side,91,26551.0,False,1986
+2266,tt0091969,Slaughter High,,90,5894.0,False,1986
+2267,tt0091982,The Loner,Le solitaire,100,1536.0,False,1987
+2271,tt0092112,Trick or Treat,,98,6561.0,False,1986
+2296,tt0092723,The Care Bears Adventure in Wonderland,,80,1179.0,False,1987
+2339,tt0093516,Meatballs III: Summer Job,Meatballs III: Summer Job,96,2438.0,False,1986
+2345,tt0093640,No Way Out,,114,38491.0,True,1987
+2350,tt0093776,Prick Up Your Ears,,105,5971.0,True,1987
+2352,tt0093800,Psychos in Love,Psychos in Love,88,1197.0,False,1987
+2366,tt0094048,Straight to Hell Returns,Straight to Hell,86,2500.0,False,1987
+2377,tt0094336,Withnail & I,,107,42611.0,True,1987
+2381,tt0094593,18 Again!,18 Again!,93,4532.0,False,1988
+2386,tt0094675,Ariel,Ariel,72,6682.0,True,1988
+2397,tt0094834,Cannibal Women in the Avocado Jungle of Death,,90,2943.0,False,1989
+2402,tt0094890,Cocoon: The Return,,116,16088.0,False,1988
+2406,tt0095040,Days of Eclipse,,139,1009.0,True,1988
+2409,tt0095178,Fresh Horses,Fresh Horses,105,1855.0,False,1988
+2423,tt0095403,Police Story 2,,101,18936.0,True,1988
+2428,tt0095468,A Short Film About Killing,Krótki film o zabijaniu,84,19208.0,True,1988
+2449,tt0095956,Rambo III,,102,127431.0,False,1988
+2454,tt0096046,Scarecrows,Scarecrows,83,4954.0,False,1988
+2458,tt0096219,Talk Radio,,110,13352.0,True,1988
+2463,tt0096328,U2: Rattle and Hum,U2: Rattle and Hum,99,5843.0,True,1988
+2464,tt0096329,Ubit drakona,,123,1595.0,True,1988
+2467,tt0096344,The Unnamable,The Unnamable,87,2640.0,False,1988
+2478,tt0097106,A Tale of Springtime,,108,4328.0,True,1990
+2482,tt0097216,Do the Right Thing,Do the Right Thing,120,97795.0,True,1989
+2494,tt0097390,Fright Night Part 2,Fright Night Part 2,104,12374.0,False,1988
+2504,tt0097573,In the Cold of the Night,In the Cold of the Night,112,1601.0,False,1990
+2516,tt0097851,Mathilukal,,120,1214.0,True,1990
+2536,tt0098258,Say Anything,Say Anything...,100,86849.0,True,1989
+2544,tt0098360,Violent Cop,"Sono otoko, kyôbô ni tsuki",103,11467.0,True,1989
+2545,tt0098375,Spontaneous Combustion,,97,2552.0,False,1990
+2546,tt0098465,"Thelonious Monk: Straight, No Chaser","Thelonious Monk: Straight, No Chaser",90,1193.0,True,1988
+2572,tt0099520,Everybody Wins,,97,1162.0,False,1990
+2613,tt0100608,The Shrimp on the Barbie,The Shrimp on the Barbie,90,1270.0,False,1990
+2615,tt0100649,Solar Crisis,,112,1894.0,False,1990
+2624,tt0101258,Days of Being Wild,Ah Fei jing juen,100,20706.0,True,1990
+2637,tt0101597,Closet Land,,89,2776.0,True,1991
+2638,tt0101605,The Commitments,,118,34487.0,True,1991
+2639,tt0101615,Cool as Ice,,91,9532.0,False,1991
+2640,tt0101627,Critters 3,Critters 3,86,11828.0,False,1991
+2653,tt0101985,A Brighter Summer Day,,237,9305.0,True,1991
+2656,tt0102015,Hearts of Darkness: A Filmmaker's Apocalypse,,96,20426.0,True,1991
+2661,tt0102269,Last Dance,Last Dance,83,1482.0,False,1992
+2662,tt0102340,Love Crimes,,90,1121.0,False,1992
+2679,tt0102815,Calls Controlled,Rozmowy kontrolowane,93,1472.0,True,1991
+2682,tt0102849,Scenes from a Mall,,89,4913.0,False,1991
+2690,tt0103030,High Heels,Tacones lejanos,112,15044.0,True,1991
+2711,tt0103939,Chaplin,Chaplin,143,56207.0,True,1992
+2741,tt0104770,Royal Tramp,,106,3538.0,True,1992
+2742,tt0104782,Leolo,,107,6933.0,True,1992
+2752,tt0105059,Only You,Only You,85,2796.0,False,1992
+2769,tt0105488,Strictly Ballroom,,94,26468.0,True,1992
+2771,tt0105597,Timebomb,,96,1758.0,False,1991
+2782,tt0105871,Year of the Comet,Year of the Comet,91,1607.0,False,1992
+2797,tt0106455,Boiling Point,Boiling Point,92,5952.0,False,1993
+2804,tt0106655,Damini,Damini,175,3364.0,True,1993
+2813,tt0106913,Fire on the Amazon,Fire on the Amazon,87,2628.0,False,1993
+2834,tt0107472,"The Wonderful, Horrible Life of Leni Riefenstahl",Die Macht der Bilder: Leni Riefenstahl,183,2915.0,True,1993
+2842,tt0107719,The Nutcracker,,92,2014.0,False,1993
+2846,tt0107870,Prehysteria!,,84,1872.0,False,1993
+2854,tt0108137,The Silver Brumby,The Silver Brumby,93,1105.0,False,1993
+2856,tt0108162,Sliver,Sliver,107,30542.0,False,1993
+2868,tt0108350,Night Terrors,,98,1361.0,False,1993
+2872,tt0108504,For a Lost Soldier,Voor een verloren soldaat,92,4456.0,True,1992
+2880,tt0109000,00 Schneider - Jagd auf Nihil Baxter,,90,2583.0,True,1994
+2889,tt0109348,Bullets Over Broadway,,98,38215.0,True,1994
+2891,tt0109402,The Chase,The Chase,97,20788.0,False,1994
+2897,tt0109447,Clifford,,90,7531.0,False,1994
+2918,tt0109842,Fresh,,114,12966.0,True,1994
+2926,tt0110052,Hong Kong 97,,91,1131.0,False,1994
+2938,tt0110251,Nobody Loves Me,,104,1178.0,True,1994
+2943,tt0110308,The Last Seduction,,110,22686.0,True,1994
+2956,tt0110657,The Next Karate Kid,,107,28950.0,False,1994
+2958,tt0110668,Night of the Running Man,Night of the Running Man,93,1679.0,False,1995
+2994,tt0112379,Antonia's Line,Antonia,102,8649.0,True,1995
+3008,tt0112619,Midaq Alley,El Callejón de los Milagros,140,3074.0,True,1995
+3019,tt0112864,Die Hard with a Vengeance,,128,376238.0,True,1995
+3025,tt0113074,Fist of the North Star,,103,3286.0,False,1995
+3029,tt0113253,Halloween: The Curse of Michael Myers,Halloween: The Curse of Michael Myers,87,35105.0,False,1995
+3039,tt0113540,Kids,,91,76442.0,True,1995
+3055,tt0113828,Les Miserables,,175,3788.0,True,1995
+3090,tt0114787,Underground,,170,57292.0,True,1995
+3104,tt0115610,Bad Moon,Bad Moon,80,6601.0,False,1996
+3113,tt0115685,The Birdcage,,117,85775.0,True,1996
+3114,tt0115701,Blast,,99,1574.0,False,1997
+3153,tt0116681,Body Troopers,,91,1069.0,False,1996
+3173,tt0116922,Lost Highway,Lost Highway,134,137572.0,True,1997
+3186,tt0117283,The Pallbearer,The Pallbearer,98,10269.0,False,1996
+3188,tt0117315,The Father,,91,1461.0,True,1996
+3227,tt0118540,4 Little Girls,4 Little Girls,102,3181.0,True,1997
+3234,tt0118715,The Big Lebowski,The Big Lebowski,117,773595.0,True,1998
+3252,tt0119038,Le Diner de Cons,Le dîner de cons,80,40379.0,True,1998
+3259,tt0119116,The Fifth Element,The Fifth Element,126,454017.0,True,1997
+3260,tt0119137,Flubber,,93,87605.0,False,1997
+3285,tt0119457,Kicked in the Head,Kicked in the Head,87,1036.0,False,1997
+3290,tt0119561,The Long Way Home,,120,1141.0,True,1997
+3297,tt0119707,Mortal Kombat: Annihilation,,95,53365.0,False,1997
+3303,tt0119889,The Phantom of the Opera,,99,5390.0,False,1998
+3304,tt0119910,Polish Wedding,Polish Wedding,105,3261.0,False,1998
+3306,tt0119981,Hikers,Les randonneurs,95,1794.0,False,1997
+3311,tt0120087,The Second Jungle Book: Mowgli & Baloo,The Second Jungle Book: Mowgli & Baloo,88,1076.0,False,1997
+3313,tt0120090,Secrets of the Heart,Secretos del corazón,105,1828.0,True,1997
+3317,tt0120133,A Simple Wish,,89,5422.0,False,1997
+3318,tt0120142,The Sixth Man,The Sixth Man,107,5763.0,False,1997
+3322,tt0120207,Steel,,97,13628.0,False,1997
+3349,tt0120723,Kissing a Fool,,93,5264.0,False,1998
+3350,tt0120725,Krippendorf's Tribe,,94,5465.0,False,1998
+3360,tt0120802,The Red Violin,Le violon rouge,130,32653.0,True,1998
+3380,tt0123328,Made in Hong Kong,Heung Gong jai jo,109,2329.0,True,1997
+3390,tt0125510,Splatter University,Splatter University,78,1704.0,False,1984
+3393,tt0125678,Bongwater,,97,4413.0,False,1998
+3394,tt0126029,Shrek,Shrek,90,644399.0,True,2001
+3405,tt0127919,Tale of the Mummy,,88,3239.0,False,1998
+3421,tt0130529,Cane Toads: An Unnatural History,Cane Toads: An Unnatural History,47,1229.0,True,1988
+3433,tt0133189,SLC Punk!,,97,28434.0,True,1998
+3439,tt0134786,The Graduates,Liceenii,95,2120.0,True,1986
+3477,tt0141907,Town & Country,Town & Country,104,4924.0,False,2001
+3503,tt0146336,Urban Legend,,99,64388.0,False,1998
+3506,tt0147612,Happiness,Happiness,134,68804.0,True,1998
+3512,tt0150230,The Cruise,The Cruise,76,1778.0,True,1998
+3523,tt0155722,Gloomy Sunday,Gloomy Sunday - Ein Lied von Liebe und Tod,112,7689.0,True,1999
+3529,tt0156639,The Big Tease,,86,2604.0,False,1999
+3562,tt0163983,Bless the Child,Bless the Child,107,14493.0,False,2000
+3571,tt0165454,The Runner,The Runner,94,1183.0,False,1999
+3592,tt0167400,Time to Love,,89,4972.0,True,1965
+3593,tt0167423,Diamonds,,91,1665.0,False,1999
+3595,tt0167825,Chicken Park,,98,1320.0,False,1994
+3598,tt0168172,Simon Sez,Simon Sez,85,6955.0,False,1999
+3604,tt0169145,Cabaret Balkan,Bure baruta,102,5044.0,True,1998
+3612,tt0172234,Chaahat,Chaahat,151,2786.0,False,1996
+3621,tt0173714,Cats,,120,5340.0,True,1998
+3626,tt0174856,The Hurricane,,146,94995.0,True,1999
+3675,tt0185481,Neo Tokyo,Meikyû monogatari,50,3441.0,True,1987
+3685,tt0187859,Genghis Blues,,88,1360.0,True,1999
+3688,tt0188404,Dexter the Dragon & Bumble the Bear,,84,1549.0,True,1983
+3702,tt0192255,The Little Vampire,The Little Vampire,95,10313.0,False,2000
+3705,tt0192701,Turbulence 2: Fear of Flying,Turbulence 2: Fear of Flying,101,2181.0,False,1999
+3708,tt0192949,Stardom,,100,1724.0,False,2000
+3709,tt0193560,Texas Rangers,Texas Rangers,90,5877.0,False,2001
+3726,tt0199650,Jill Rips,Jill Rips,94,1004.0,False,2000
+3727,tt0199753,Red Planet,Red Planet,106,56959.0,False,2000
+3734,tt0201290,The Underground Comedy Movie,,88,2663.0,False,1999
+3742,tt0203166,Together,,106,22489.0,True,2000
+3757,tt0208196,Happy Accidents,Happy Accidents,110,9774.0,True,2000
+3758,tt0208675,Compassionate Sex,Sexo por compasión,109,1257.0,True,2000
+3780,tt0212815,Big Eden,,118,4412.0,True,2000
+3786,tt0215517,Angoor,Angoor,131,5138.0,True,1982
+3788,tt0216787,The Taste of Others,Le goût des autres,112,9628.0,True,2000
+3790,tt0216841,Jet Set,,106,1025.0,False,2000
+3792,tt0217355,Dancing at the Blue Iguana,Dancing at the Blue Iguana,123,3895.0,False,2000
+3795,tt0217756,Ready to Rumble,,107,14109.0,False,2000
+3798,tt0218625,The St. Francisville Experiment,,79,1609.0,False,2000
+3810,tt0225009,964 Pinocchio,964 Pinocchio,97,1742.0,False,1991
+3811,tt0225029,Aflatoon,Aflatoon,153,1327.0,False,1997
+3840,tt0235060,The Road Home,Wo de fu qin mu qin,89,12951.0,True,1999
+3841,tt0235154,6ixtynin9,Ruang talok 69,118,2052.0,True,1999
+3843,tt0236126,A Crack in the Floor,A Crack in the Floor,90,1160.0,False,2001
+3855,tt0239395,Cats & Dogs,,87,58527.0,False,2001
+3858,tt0240200,Water,Water,117,14719.0,True,2005
+3890,tt0245712,Amores perros,Amores perros,154,233725.0,True,2000
+3899,tt0247586,Nine Queens,Nueve reinas,114,51698.0,True,2000
+3915,tt0249795,Mayabazar,Maya Bazaar,192,4704.0,True,1957
+3927,tt0252360,Davaci,Davaci,79,3099.0,True,1987
+3936,tt0252611,Korkusuz Korkak,,77,6490.0,True,1979
+3952,tt0254683,Phool Aur Kaante,,173,1418.0,False,1991
+3956,tt0255306,Kilukkam,,155,3870.0,True,1991
+3963,tt0256858,Killers,,97,1145.0,False,1996
+3996,tt0263728,Megiddo: The Omega Code 2,Megiddo: The Omega Code 2,104,2748.0,False,2001
+4001,tt0264689,Home Room,,133,3275.0,True,2002
+4078,tt0279895,My Best Friend,,104,1034.0,False,2001
+4100,tt0282599,Il Mare,,105,8645.0,True,2000
+4105,tt0283283,Millennium Mambo,Qianxi mànbo,119,5127.0,True,2001
+4106,tt0283453,Lost Junction,Lost Junction,95,1217.0,False,2003
+4137,tt0289879,The Butterfly Effect,The Butterfly Effect,113,470867.0,True,2004
+4139,tt0289992,The Life of David Gale,,130,117093.0,True,2003
+4140,tt0290212,Full Frontal,,101,10990.0,False,2002
+4151,tt0292542,Son of the Bride,,123,15380.0,True,2001
+4170,tt0298203,8 Mile,,110,269808.0,True,2002
+4181,tt0301050,Bolivia,,75,1146.0,True,1999
+4185,tt0301470,Jeepers Creepers 2,,106,62519.0,False,2003
+4207,tt0305669,Bringing Down the House,Bringing Down the House,105,36173.0,False,2003
+4214,tt0306909,Public Enemy,Gonggongui jeog,138,2204.0,True,2002
+4216,tt0307116,Maa Tujhhe Salaam,,162,1186.0,False,2002
+4225,tt0308208,Ballistic: Ecks vs. Sever,Ballistic: Ecks vs. Sever,91,19869.0,False,2002
+4246,tt0312941,My Life as McDull,,75,1094.0,True,2001
+4258,tt0314806,Tupac Shakur: Thug Angel,Tupac Shakur: Thug Angel,92,1091.0,True,2002
+4300,tt0326856,Envy,Envy,99,30750.0,False,2004
+4301,tt0326900,Good Boy,,88,4368.0,False,2003
+4308,tt0327437,Around the World in 80 Days,Around the World in 80 Days,120,88099.0,False,2004
+4313,tt0328099,Malibu's Most Wanted,,86,19215.0,False,2003
+4314,tt0328720,The Collingswood Story,The Collingswood Story,80,1490.0,False,2002
+4330,tt0331933,Man of the House,Man of the House,100,23612.0,False,2005
+4353,tt0338135,The Barbarian Invasions,,99,28946.0,True,2003
+4364,tt0339419,The Mudge Boy,The Mudge Boy,94,4429.0,True,2003
+4366,tt0339535,The Professional,,104,6514.0,True,2003
+4369,tt0339824,Tube,Tyubeu,116,1367.0,False,2003
+4389,tt0347149,Howl's Moving Castle,Hauru no ugoku shiro,119,364098.0,True,2004
+4402,tt0349825,Miracle,Miracle,135,52232.0,True,2004
+4406,tt0350232,Evil Remains,Trespassing,88,1565.0,False,2004
+4417,tt0353969,Memories of Murder,,131,163620.0,True,2003
+4445,tt0361670,The Great Journey,Le grand voyage,108,2438.0,True,2004
+4481,tt0367085,Soul Plane,Soul Plane,86,22597.0,False,2004
+4482,tt0367089,The Squid and the Whale,The Squid and the Whale,81,81799.0,True,2005
+4484,tt0367859,The Man Who Copied,,123,10099.0,True,2003
+4498,tt0368975,Sleepover,Sleepover,89,16367.0,False,2004
+4501,tt0369339,Collateral,Collateral,120,383031.0,True,2004
+4505,tt0369735,Monster-in-Law,,101,59307.0,False,2005
+4525,tt0373889,Harry Potter and the Order of the Phoenix,,138,542852.0,True,2007
+4526,tt0374089,Nomad: The Warrior,Köshpendiler,112,3837.0,False,2005
+4528,tt0374345,The Memory of a Killer,,123,9714.0,True,2003
+4540,tt0376006,Book of Love,,83,1722.0,False,2004
+4566,tt0379370,Maqbool,Maqbool,132,10487.0,True,2003
+4574,tt0380485,Bonjour Monsieur Shlomi,,94,1171.0,True,2003
+4579,tt0381637,Symmetry,Symetria,99,3450.0,True,2003
+4588,tt0382295,Seven Dwarves,,95,5839.0,False,2004
+4596,tt0383020,The Tuner,Nastroyshchik,154,1058.0,True,2004
+4615,tt0385990,Retrograde,Retrograde,93,1632.0,False,2004
+4619,tt0386650,Mounam Pesiyadhe,,148,2094.0,True,2002
+4622,tt0386820,The Trouble with Terkel,,77,10523.0,True,2004
+4624,tt0387462,Okul,Okul,100,3447.0,False,2004
+4642,tt0390022,Friday Night Lights,Friday Night Lights,118,61646.0,True,2004
+4647,tt0390450,Blessed,Blessed,94,2204.0,False,2004
+4654,tt0393162,Coach Carter,Coach Carter,136,138320.0,True,2005
+4660,tt0395461,Bab'Aziz: The Prince That Contemplated His Soul,,96,3322.0,True,2005
+4665,tt0396563,Dil Ne Jise Apna Kaha,,135,1829.0,False,2004
+4668,tt0396746,Muxmauschenstill,,89,2664.0,True,2004
+4674,tt0397535,Memoirs of a Geisha,Memoirs of a Geisha,145,144396.0,True,2005
+4698,tt0402904,Cemetery Gates,,92,1155.0,False,2006
+4714,tt0407038,Pucked,Pucked,83,1140.0,False,2006
+4720,tt0407851,Hana and Alice,,135,4202.0,True,2004
+4741,tt0411646,Michael Moore Hates America,Michael Moore Hates America,125,3921.0,False,2004
+4743,tt0411805,Return of the Living Dead: Necropolis,Return of the Living Dead: Necropolis,88,5049.0,False,2005
+4752,tt0414387,Pride & Prejudice,Pride & Prejudice,129,277660.0,True,2005
+4759,tt0415679,Boy Eats Girl,,80,3897.0,False,2005
+4766,tt0416320,Match Point,,124,213190.0,True,2005
+4769,tt0417046,Pedersen: High-School Teacher,Gymnaslærer Pedersen,123,1632.0,False,2006
+4771,tt0417397,9th Company,,139,20401.0,True,2005
+4776,tt0419198,The Tiger and the Snow,La tigre e la neve,114,13854.0,True,2005
+4786,tt0420318,The Wedding,,109,4336.0,True,2004
+4804,tt0422689,Madurey,Madurey,145,2052.0,False,2004
+4810,tt0423853,Be Here to Love Me,Be Here to Love Me: A Film About Townes Van Zandt,99,1294.0,True,2004
+4812,tt0424273,Electric Shadows,,93,1021.0,True,2004
+4836,tt0426501,Johnny Was,,93,1701.0,False,2006
+4838,tt0426596,The Take,,87,1197.0,True,2004
+4841,tt0427089,Confetti,Confetti,100,5099.0,False,2006
+4842,tt0427152,Dinner for Schmucks,,114,104580.0,False,2010
+4873,tt0433386,The Grudge 2,The Grudge 2,102,48723.0,False,2006
+4875,tt0433442,The Return,The Return,85,11908.0,False,2006
+4881,tt0435761,Toy Story 3,,103,794019.0,True,2010
+4885,tt0436613,Murderball,,88,10121.0,True,2005
+4887,tt0436697,The Queen,The Queen,103,108033.0,True,2006
+4895,tt0438427,Side Effects,Side Effects,90,1111.0,False,2005
+4909,tt0441773,Kung Fu Panda,Kung Fu Panda,92,443161.0,True,2008
+4915,tt0443527,The Hamiltons,The Hamiltons,86,8655.0,False,2006
+4933,tt0446719,Isolation,Isolation,95,7164.0,False,2005
+4943,tt0449994,Jodhaa Akbar,Jodhaa Akbar,213,31642.0,True,2008
+4968,tt0453729,Iqbal,Iqbal,132,16564.0,True,2005
+4977,tt0455584,The Kovak Box,,102,4080.0,False,2006
+4998,tt0460394,Aithe,Aithe,140,1467.0,True,2003
+5000,tt0460732,Caffeine,Caffeine,92,2678.0,False,2006
+5027,tt0466342,Date Movie,,83,58821.0,False,2006
+5036,tt0468094,The Road to Guantanamo,The Road to Guantanamo,95,11290.0,True,2006
+5046,tt0469623,Things We Lost in the Fire,,118,28434.0,True,2007
+5050,tt0470679,August,,88,4178.0,False,2008
+5053,tt0472043,Apocalypto,,139,302286.0,True,2006
+5069,tt0475217,All In,All In,98,1345.0,False,2006
+5094,tt0478160,Into Great Silence,,169,2326.0,True,2005
+5099,tt0478737,Treasure Raiders,Treasure Raiders,92,4223.0,False,2007
+5122,tt0483577,The Night Buffalo,El búfalo de la noche,102,1627.0,False,2007
+5129,tt0485510,Killing the Shadows,,135,12105.0,True,2006
+5132,tt0485922,Keerthi Chakra,Keerthi Chakra,130,1011.0,True,2006
+5137,tt0486652,Sisters,,92,1457.0,False,2006
+5156,tt0489282,Strange Wilderness,,87,21659.0,False,2008
+5205,tt0499097,Without Remorse,,109,51231.0,False,2021
+5216,tt0756725,Where God Left His Shoes,,96,1071.0,True,2007
+5237,tt0765833,Happy Days,Neseli Günler,92,10805.0,True,1978
+5285,tt0796302,The Babysitters,The Babysitters,88,11571.0,False,2007
+5288,tt0800003,Delta Farce,,90,11025.0,False,2007
+5303,tt0805605,Seinto Seiya: Tenkai-hen joso - Overture,,84,1267.0,True,2004
+5322,tt0813540,Naksha,Naksha,128,1140.0,False,2006
+5331,tt0816442,The Book Thief,,131,131782.0,True,2013
+5335,tt0817177,Flipped,Flipped,90,87273.0,True,2010
+5343,tt0821640,Ghosts of Girlfriends Past,Ghosts of Girlfriends Past,115,87709.0,False,2009
+5349,tt0824316,Dor,,147,5939.0,True,2006
+5374,tt0839811,Fi shaket Masr El Gedeeda,Fi shaket Masr El Gedeeda,118,1276.0,True,2007
+5377,tt0840322,Forever Strong,,112,10541.0,True,2008
+5381,tt0841109,Late Bloomers,,90,1052.0,True,2006
+5393,tt0847880,Cargo 200,Gruz 200,89,8994.0,True,2007
+5400,tt0855729,Times and Winds,,111,4213.0,True,2006
+5410,tt0865297,The Black Balloon,The Black Balloon,97,8818.0,True,2008
+5413,tt0866439,Made of Honor,Made of Honor,101,70162.0,False,2008
+5414,tt0870090,City of Men,,106,15503.0,True,2007
+5417,tt0870204,Boot Camp,,99,8825.0,False,2008
+5443,tt0892051,Evil Angel,Evil Angel,123,1283.0,False,2009
+5448,tt0893412,From Prada to Nada,From Prada to Nada,107,14884.0,False,2011
+5472,tt0913401,Kill Buljo: The Movie,Kill Buljo: The Movie,93,3893.0,False,2007
+5482,tt0920464,Manorama: Six Feet Under,Manorama: Six Feet Under,137,7906.0,True,2007
+5485,tt0924317,Yamadonga,Yamadonga,185,3760.0,True,2007
+5488,tt0928152,Malliswari,Malliswari,150,3150.0,True,2004
+5493,tt0930856,The Fourth Man,,107,4129.0,True,2007
+5501,tt0938330,Silent Hill: Revelation,,95,62325.0,False,2012
+5508,tt0949815,Mr. Warmth: The Don Rickles Project,,89,1083.0,True,2007
+5521,tt0961079,Reclaiming the Blade,,90,1670.0,True,2009
+5548,tt0983990,1971,1971,136,2144.0,True,2007
+5550,tt0984177,Amarkalam,,148,1764.0,True,1999
+5568,tt0995740,No Smoking,No Smoking,128,7294.0,True,2007
+5584,tt1002563,The Young Messiah,,111,3435.0,False,2016
+5586,tt10050782,Grass is Greener,Grass Is Greener,97,1247.0,True,2019
+5616,tt1020543,Infestation,,91,9202.0,False,2009
+5632,tt10262380,Boys from County Hell,Boys from County Hell,88,3085.0,False,2020
+5637,tt1028532,Hachi: A Dog's Tale,Hachi: A Dog's Tale,93,269757.0,True,2009
+5653,tt1032815,"I Love You, Beth Cooper",,102,34588.0,False,2009
+5660,tt1034032,Gamer,,95,133094.0,False,2009
+5667,tt1034449,Kidnap,,135,2394.0,False,2008
+5690,tt10472102,Karakomik Filmler: Emanet,Karakomik Filmler: Emanet,60,6071.0,False,2020
+5710,tt10543680,Ginny Weds Sunny,,125,4450.0,False,2020
+5711,tt1054631,House Broken,,84,2235.0,False,2010
+5715,tt10556320,Sator,Sator,85,1614.0,False,2019
+5718,tt1057581,How to Be,,85,3863.0,False,2008
+5719,tt10579952,Master,,179,66004.0,True,2021
+5747,tt1072438,Not Since You,,90,1919.0,False,2009
+5766,tt10817348,Cupid,,83,1558.0,False,2020
+5777,tt10867504,Fan,Fan,145,1118.0,True,2019
+5786,tt10887902,I Used to Go Here,,80,3008.0,False,2020
+5802,tt1093842,My Winnipeg,,80,5188.0,True,2007
+5803,tt10941528,Under the Riccione Sun,Sotto il sole di Riccione,101,2256.0,False,2020
+5823,tt11023922,Spirits in the Forest,Spirits in the Forest,83,1174.0,True,2019
+5824,tt1103153,Killers,,100,90104.0,False,2010
+5828,tt1103982,The Girlfriend Experience,,77,16458.0,False,2009
+5830,tt11044122,Never Surrender: A Galaxy Quest Documentary,,95,1706.0,True,2019
+5835,tt11060730,Maniyarayile Ashokan,Maniyarayile Ashokan,110,1174.0,False,2020
+5842,tt1110209,Take the Trash,Blå mænd,85,4005.0,False,2008
+5851,tt11163028,House Arrest,,104,1580.0,False,2019
+5875,tt11263022,The Seventh Day,,87,3816.0,False,2021
+5901,tt1132608,Ugly Melanie,Vilaine,93,1017.0,False,2008
+5921,tt11382384,The Dissident,The Dissident,119,28855.0,True,2020
+5922,tt11384004,Love Story,,155,2940.0,True,2021
+5926,tt11389868,Marvelous and the Black Hole,Marvelous and the Black Hole,81,1484.0,True,2021
+5929,tt11394180,Dick Johnson Is Dead,Dick Johnson Is Dead,89,5925.0,True,2020
+5931,tt11394276,Assassins,Assassins,104,2130.0,True,2020
+5946,tt1148200,Chain Letter,Chain Letter,88,5351.0,False,2010
+5985,tt1160629,Suspect X,Yôgisha X no kenshin,128,3323.0,True,2008
+5987,tt1161404,Blood Night: The Legend of Mary Hatchet,,83,2303.0,False,2009
+5989,tt11615290,Beastie Boys Story,Beastie Boys Story,119,6010.0,True,2020
+5990,tt1161646,Gingerdead Man 2: Passion of the Crust,,72,1215.0,False,2008
+5997,tt11656172,Hard Kill,Hard Kill,98,19417.0,False,2020
+6002,tt11692986,Fierce,Jak zostac gwiazda,118,1099.0,False,2020
+6023,tt1176960,One Two Three,One Two Three,135,2631.0,False,2008
+6032,tt1179933,10 Cloverfield Lane,,103,309018.0,True,2016
+6036,tt1182937,Rab Ne Bana Di Jodi,Rab Ne Bana Di Jodi,167,46436.0,True,2008
+6075,tt1198153,The Assassin Next Door,Kirot,103,2701.0,False,2009
+6080,tt1202540,Dil Bole Hadippa,,148,4062.0,False,2009
+6093,tt1210166,Moneyball,Moneyball,133,397623.0,True,2011
+6098,tt1213644,Disaster Movie,Disaster Movie,87,89901.0,False,2008
+6099,tt1213856,Voices,Du saram-yida,85,1298.0,False,2007
+6110,tt1222815,Chimpanzee,Chimpanzee,78,6096.0,True,2012
+6122,tt12299714,Thittam Irandu,Thittam Irandu,120,2737.0,True,2021
+6168,tt12492650,Ek,Ek,129,4895.0,True,2019
+6169,tt1251743,Salvation Boulevard,,96,4588.0,False,2011
+6182,tt1261047,Gulaal,,140,14621.0,True,2009
+6183,tt1261862,Icarus,Icarus,88,4177.0,False,2010
+6192,tt1264914,Zift,Zift,92,4939.0,True,2008
+6212,tt1276419,A Royal Affair,En kongelig affære,137,46333.0,True,2012
+6213,tt12764606,The Lockdown Hauntings,,101,1685.0,False,2021
+6226,tt12839816,Asalu Em Jarigindhante,,110,5428.0,True,2020
+6235,tt12861508,Survive the Game,Survive the Game,97,2902.0,False,2021
+6250,tt1291150,Teenage Mutant Ninja Turtles,,101,206161.0,False,2014
+6268,tt1302067,Yogi Bear,Yogi Bear,81,21393.0,False,2010
+6296,tt1316622,Wrecked,,91,16096.0,False,2010
+6303,tt1321509,Death at a Funeral,Death at a Funeral,92,48627.0,False,2010
+6315,tt1327628,Whores' Glory,,110,4775.0,True,2011
+6330,tt1337032,Trailer Park Boys: Countdown to Liquor Day,,102,7353.0,True,2009
+6332,tt13372794,The Manor,,81,3844.0,False,2021
+6333,tt13381376,Welcome Home,Welcome Home,126,2832.0,True,2020
+6343,tt1342402,Mommo,Mommo,94,1926.0,True,2009
+6370,tt13583144,The Minimalists: Less Is Now,The Minimalists: Less Is Now,53,3713.0,False,2021
+6371,tt1359552,Antaheen,Antaheen,120,1596.0,True,2009
+6379,tt13651858,Safer at Home,Safer at Home,82,3313.0,False,2021
+6391,tt1369706,The Ward,,89,41836.0,False,2010
+6394,tt13717980,Grudge,,105,3521.0,False,2021
+6399,tt13758760,A Stand Worthy of Men,,120,1770.0,True,2021
+6408,tt1382725,The Roundup,,115,8641.0,True,2010
+6413,tt1389072,Downsizing,Downsizing,135,105369.0,False,2017
+6449,tt1408101,Star Trek Into Darkness,,132,474618.0,True,2013
+6450,tt14087490,Super Heroes: The Movie,Super Heroes: The Movie,80,1230.0,True,2021
+6453,tt1410051,Retreat,,90,11671.0,False,2011
+6456,tt1414382,You Again,You Again,105,50749.0,False,2010
+6468,tt1422675,Ju-on: White Ghost,Ju-on: Shiroi rôjo,61,2167.0,False,2009
+6469,tt1422800,Beneath the Dark,Beneath the Dark,102,1929.0,False,2010
+6474,tt1426374,The Wind Journeys,,117,2349.0,True,2009
+6475,tt1428459,We Are Family,,115,3096.0,False,2010
+6480,tt1430607,Arthur Christmas,,97,55789.0,True,2011
+6481,tt1430612,Brick Mansions,,90,41596.0,False,2014
+6483,tt1431122,No Problem,,139,2449.0,False,2010
+6487,tt1433528,Henri-Georges Clouzot's Inferno,,100,1730.0,True,2009
+6504,tt1441953,Testament of Youth,Testament of Youth,129,28260.0,True,2014
+6510,tt1450321,Filth,,97,106120.0,True,2013
+6534,tt1472195,The Violent Kind,The Violent Kind,85,1834.0,False,2010
+6541,tt1478800,Assault Girls,Asaruto gâruzu,65,1284.0,False,2009
+6556,tt1487275,The White Stripes Under Great White Northern Lights,,93,2421.0,True,2009
+6589,tt1510906,Third Star,Third Star,92,7101.0,True,2010
+6593,tt15145772,200: Halla Ho,200: Halla Ho,115,1471.0,True,2021
+6598,tt15192796,Brandy Diaries,Brandy Diaries,144,1422.0,True,2021
+6618,tt1532382,Hooked,,90,1638.0,False,2009
+6634,tt1537772,The Wings of the Night,,97,1664.0,False,2009
+6638,tt1540741,A Single Shot,A Single Shot,116,10839.0,False,2013
+6645,tt1545660,Knights of Badassdom,Knights of Badassdom,86,20173.0,False,2013
+6647,tt15458036,Savitri W/o Satyamurthy,,,1027.0,False,2021
+6653,tt1554091,A Better Life,,98,15759.0,True,2011
+6657,tt1558250,GasLand,GasLand,107,10873.0,True,2010
+6665,tt1563719,Hunt to Kill,Hunt to Kill,98,6655.0,False,2010
+6697,tt1580426,Repeaters,Repeaters,89,6663.0,False,2010
+6704,tt1584131,The Last Godfather,The Last Godfather,100,1198.0,False,2010
+6705,tt1584813,Reindeerspotting - Escape from Santaland,Reindeerspotting - pako Joulumaasta,84,3337.0,True,2010
+6709,tt1586753,The Incite Mill,Inshite miru: 7-kakan no desu gêmu,107,1242.0,False,2010
+6733,tt1602572,Echoes of the Rainbow,Sui yuet san tau,117,1940.0,True,2010
+6742,tt1608516,Lauf Junge lauf,Lauf Junge lauf,112,2369.0,True,2013
+6749,tt1612774,Rubber,,82,36069.0,False,2010
+6768,tt1621642,Bangkok Traffic (Love) Story,,126,1823.0,True,2009
+6794,tt1646975,Le Quattro Volte,,88,3887.0,True,2010
+6795,tt1646987,Wrath of the Titans,,99,186139.0,False,2012
+6813,tt1656170,Bringing Up Bobby,Bringing Up Bobby,93,1913.0,False,2011
+6823,tt1662557,No Mercy,Yongseoneun eupda,123,7941.0,True,2010
+6825,tt1663207,Life of Crime,,98,18401.0,False,2013
+6827,tt1663628,Christmas Mail,,89,1666.0,False,2010
+6847,tt1675161,"Guns, Girls and Gambling",,90,4387.0,False,2012
+6848,tt1675192,Take Shelter,,121,98167.0,True,2011
+6854,tt1680099,Men Vs Women,,113,2292.0,False,2010
+6859,tt1683876,Happy People: A Year in the Taiga,Happy People: A Year in the Taiga,90,8241.0,True,2010
+6865,tt1687247,Life in a Day,Life in a Day,95,15167.0,True,2011
+6878,tt1702014,The Way He Looks,,96,24385.0,True,2014
+6885,tt1706433,To Live!,,74,1806.0,True,2010
+6893,tt1712159,11-11-11,11-11-11,90,12282.0,False,2011
+6903,tt1715853,The Colors of the Mountain,,90,1568.0,True,2010
+6906,tt1718915,Teen Lust,,80,1728.0,False,2014
+6932,tt1733578,Zombie Diaries 2,,88,2443.0,False,2011
+6953,tt1754811,InAPPropriate Comedy,,83,4491.0,False,2013
+6955,tt1754944,eCupid,,95,2286.0,False,2011
+6966,tt1772271,"3, 2, 1... Frankie Go Boom",Frankie Go Boom,89,4971.0,False,2012
+6984,tt1784670,The Malay Chronicles: Bloodlines,,109,1072.0,False,2011
+7002,tt1798243,Rudderless,Rudderless,105,18453.0,True,2014
+7004,tt1800351,One Night in Istanbul,One Night in Istanbul,93,1319.0,False,2014
+7020,tt1814621,Admission,,108,34273.0,False,2013
+7023,tt1815746,Humans vs Zombies,,93,1469.0,False,2011
+7025,tt1816608,Another Me,,86,5544.0,False,2013
+7035,tt1823202,Sibir. Monamur,Sibir. Monamur,102,2208.0,True,2011
+7062,tt1841542,Children's Party,Chillar Party,135,7579.0,True,2011
+7084,tt1858481,Last Passenger,Last Passenger,97,7163.0,False,2013
+7093,tt1865425,Kumare,,84,4941.0,True,2011
+7102,tt1876277,Into the White,Into the White,104,20476.0,True,2012
+7107,tt1881060,Static,,83,3270.0,False,2012
+7110,tt1884369,Noobz,,90,2153.0,False,2012
+7121,tt1895484,Model Minority,Model Minority,94,1773.0,True,2012
+7128,tt1909726,Agir abi,Agir abi,97,1159.0,False,2011
+7129,tt1910498,Alien Armageddon,Alien Armageddon,95,1243.0,False,2011
+7131,tt1912982,A Little Bit Zombie,,87,2824.0,False,2012
+7161,tt1937133,On the Other Side of the Tracks,,96,4972.0,False,2012
+7173,tt1950235,Let It Snow,,92,20295.0,False,2019
+7175,tt1954470,Gangs of Wasseypur,Gangs of Wasseypur,321,91134.0,True,2012
+7197,tt1986180,The Test,,89,1161.0,False,2012
+7228,tt2027154,Love Bite,,91,1520.0,False,2012
+7265,tt2069797,Delirium,Delirium,96,7370.0,False,2018
+7269,tt2072029,7 Nights of Darkness,7 Nights of Darkness,90,1114.0,False,2011
+7292,tt2085752,Autumn Blood,,100,1796.0,False,2013
+7305,tt2106361,Into the Storm,,89,67072.0,False,2014
+7318,tt2113681,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,Hundraåringen som klev ut genom fönstret och försvann,114,39762.0,True,2013
+7321,tt2119463,Let the Fire Burn,Let the Fire Burn,88,1367.0,True,2013
+7324,tt2120120,Pixels,,105,138491.0,False,2015
+7336,tt2140629,Arizona,Arizona,85,7607.0,False,2018
+7338,tt2142883,Sen Kimsin?,,101,5214.0,False,2012
+7340,tt2147134,56 Up,56 Up,144,2262.0,True,2012
+7341,tt2149053,Orange Suit,Narenji Poush,107,1184.0,False,2012
+7347,tt2165765,Fear Clinic,,95,6616.0,False,2014
+7368,tt2179239,The Last Showing,The Last Showing,89,1530.0,False,2014
+7369,tt2179936,School Dance,,85,1597.0,False,2014
+7373,tt2180477,Nanban,Nanban,188,14731.0,True,2012
+7383,tt2187884,Escape from Tomorrow,,90,9525.0,False,2013
+7411,tt2211173,Yevadu,,165,7080.0,False,2014
+7437,tt2237324,Bent,Bent,96,6562.0,False,2018
+7443,tt2241750,Drown,,93,1389.0,False,2015
+7444,tt2242176,Horsehead,,89,1795.0,False,2014
+7445,tt2243299,Final Cut: Ladies and Gentlemen,,84,2507.0,True,2012
+7450,tt2245544,Carry on Jatta,,143,3187.0,True,2012
+7455,tt2251481,Sean Banan inuti Seanfrika,Sean Banan inuti Seanfrika,76,1494.0,False,2012
+7469,tt2275743,"Berlin, I Love You","Berlin, I Love You",120,3035.0,False,2019
+7497,tt2301900,Puppet Master X: Axis Rising,,86,1165.0,False,2012
+7498,tt2302966,I,,188,20273.0,True,2015
+7503,tt2304953,Reasonable Doubt,,91,19538.0,False,2014
+7511,tt2315152,A Werewolf Boy,Neuk-dae-so-nyeon,122,7577.0,True,2012
+7535,tt2334871,Snatched,,90,34665.0,False,2017
+7541,tt2343601,Knuckleball!,Knuckleball!,93,1706.0,True,2012
+7590,tt2381249,Mission: Impossible - Rogue Nation,,131,357677.0,True,2015
+7599,tt2393775,Dhenikaina Ready,,125,1260.0,False,2012
+7602,tt2395385,+1,+1,96,8065.0,False,2013
+7606,tt2396436,Lemon Tree Passage,,84,4303.0,False,2014
+7612,tt2400275,Goodbye to Language,,70,5760.0,False,2014
+7618,tt2402927,Carol,,118,123465.0,True,2015
+7625,tt2406676,Ek Thi Daayan,,135,4148.0,False,2013
+7633,tt2416424,00 Schneider - Im Wendekreis der Eidechse,00 Schneider - Im Wendekreis der Eidechse,94,1216.0,False,2013
+7636,tt2417650,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo,,80,3729.0,False,2013
+7648,tt2439946,40 Days and Nights,40 Days and Nights,86,2181.0,False,2012
+7651,tt2446502,Zombie Hunter,Zombie Hunter,93,2651.0,False,2013
+7661,tt2465578,Human Capital,,111,12346.0,True,2013
+7697,tt2531362,Chariot,Chariot,87,1879.0,False,2013
+7701,tt2543164,Arrival,,116,650418.0,True,2016
+7707,tt2549540,Pokemon the Movie: Kyurem vs. the Sword of Justice,Gekijoban Pocket Monster Best Wishes! Kyurem vs Seikenshi Keldeo,72,1415.0,False,2012
+7722,tt2576450,Besharam,,143,5487.0,False,2013
+7744,tt2615584,Phata Poster Nikhla Hero,,146,4683.0,False,2013
+7756,tt2637294,Hot Tub Time Machine 2,Hot Tub Time Machine 2,93,38347.0,False,2015
+7761,tt2667380,Kill Command,Kill Command,99,13879.0,False,2016
+7765,tt2673882,Jatt & Juliet 2,,140,1924.0,True,2013
+7778,tt2714380,The Remaining,The Remaining,88,7068.0,False,2014
+7799,tt2766268,The Games Maker,The Games Maker,111,1272.0,False,2014
+7800,tt2769184,Debug,Debug,86,2632.0,False,2014
+7814,tt2814362,United Passions,United Passions,110,4170.0,False,2014
+7832,tt2854894,A Fighting Man,A Fighting Man,88,1571.0,False,2014
+7847,tt2891174,99 Homes,99 Homes,112,32493.0,True,2014
+7895,tt2981768,Patema Inverted,Sakasama no Patema,98,8679.0,True,2013
+7898,tt2991296,Beneath,Beneath,89,4288.0,False,2013
+7939,tt3086582,Tiny Times 2.0,Xiao shi dai 2: Qing mu shi dai,113,1064.0,False,2013
+7943,tt3089778,The Treatment,De behandeling,131,8785.0,True,2014
+7953,tt3105350,The Calculator,Vychislitel,82,1109.0,False,2014
+7967,tt3129564,Diplomacy,Diplomatie,84,5379.0,True,2014
+7999,tt3187076,Class Enemy,,112,2203.0,True,2013
+8002,tt3194532,Gorko!,Gorko!,100,2704.0,False,2013
+8031,tt3263946,Trial by Fire,,127,9131.0,True,2018
+8035,tt3268668,Captive,Captive,97,6748.0,False,2015
+8049,tt3297382,The Crash,,84,1577.0,False,2017
+8055,tt3311176,The Reunion 2: The Funeral,,95,1679.0,False,2014
+8063,tt3323920,Philips and the Monkey Pen,,140,1322.0,True,2013
+8071,tt3348730,Jigsaw,Jigsaw,92,75626.0,False,2017
+8075,tt3371366,Transformers: The Last Knight,,154,144385.0,False,2017
+8089,tt3397918,Harbinger Down,,82,6233.0,False,2015
+8098,tt3409392,Timbuktu,Timbuktu,96,17114.0,True,2014
+8109,tt3438252,Apur Panchali,,97,1223.0,True,2013
+8114,tt3447364,Detective Byomkesh Bakshy!,Detective Byomkesh Bakshy!,139,22434.0,True,2015
+8138,tt3491962,Outlaws and Angels,,120,3289.0,False,2016
+8165,tt3524290,Goli Soda,,111,1006.0,True,2014
+8166,tt3526408,Yellowbird,"Gus - Petit oiseau, grand voyage",90,1776.0,False,2014
+8189,tt3561236,Containment,Containment,77,2922.0,False,2015
+8192,tt3564574,Eternity,,115,1240.0,False,2016
+8193,tt3564860,The Exorcism of Anna Ecklund,The Exorcism of Anna Ecklund,79,1087.0,False,2016
+8225,tt3627704,Phantasm: Ravager,Phantasm: Ravager,85,4271.0,False,2016
+8227,tt3633084,"Armenia, My Love...","Armenia, My Love...",101,1050.0,True,2016
+8231,tt3652616,Escape from Ensenada,California Dreaming,83,1020.0,False,2017
+8232,tt3660770,Monkey Kingdom,Monkey Kingdom,81,3922.0,True,2015
+8234,tt3663040,Heatstroke,Heatstroke,92,3100.0,False,2013
+8240,tt3678782,Badlapur,Badlapur,134,23190.0,True,2015
+8255,tt3698558,Some Kind of Hate,,82,2591.0,False,2015
+8256,tt3700392,Heidi,Heidi,111,5562.0,True,2015
+8275,tt3731580,We Don't Belong Here,We Don't Belong Here,92,1703.0,False,2017
+8282,tt3739110,The Yellow Birds,,94,3646.0,False,2017
+8283,tt3741316,Bare,,90,2314.0,False,2015
+8320,tt3822396,Velaiyilla Pattathari,Velaiilla Pattadhari,133,6838.0,True,2014
+8327,tt3835080,31,,102,19970.0,False,2016
+8339,tt3861144,Paranormal Evil,Viktorville,93,1104.0,False,2017
+8349,tt3895908,Seeds,Seeds,90,1545.0,False,2018
+8387,tt3996396,Yatra,Yatra,127,3505.0,True,2018
+8419,tt4065414,A Good American,A Good American,100,1181.0,True,2015
+8449,tt4126694,1 Night,,80,1986.0,False,2016
+8466,tt4160708,Don't Breathe,,88,256687.0,True,2016
+8473,tt4180576,Bridgend,Bridgend,95,2396.0,False,2015
+8475,tt4184878,Smosh: The Movie,Smosh: The Movie,84,6414.0,False,2015
+8486,tt4195278,Telling Tales,,103,15640.0,True,2015
+8526,tt4310772,From Vegas to Macau II,,109,1054.0,False,2015
+8539,tt4334642,Bonded by Blood 2,,91,2101.0,False,2017
+8559,tt4393278,Chto tvoryat muzhchiny! 2,Chto tvoryat muzhchiny! 2,90,1259.0,False,2015
+8561,tt4399952,The Lodgers,The Lodgers,92,8933.0,False,2017
+8567,tt4426464,Arctic Dogs,Arctic Justice,92,1773.0,False,2019
+8572,tt4430136,Pyaar Ka Punchnama 2,Pyaar Ka Punchnama 2,137,14757.0,True,2015
+8578,tt4437216,Goat,,96,7699.0,False,2016
+8594,tt4477536,Fifty Shades Freed,Fifty Shades Freed,105,61421.0,False,2018
+8616,tt4550098,Nocturnal Animals,,116,259488.0,True,2016
+8625,tt4573516,Sleight,,89,8576.0,False,2016
+8637,tt4613254,Heartstone,Hjartasteinn,129,5113.0,True,2016
+8642,tt4624258,What's the Matter with Gerald?,What's the Matter with Gerald?,99,1140.0,False,2016
+8645,tt4633662,The Charnel House,The Charnel House,90,1247.0,False,2016
+8653,tt4661798,Joshy,Joshy,93,4199.0,False,2016
+8656,tt4669954,Yellow Flowers on the Green Grass,Toi Thay Hoa Vang Tren Co Xanh,103,1244.0,True,2015
+8678,tt4730638,By Light of Desert Night,,94,1600.0,False,2019
+8679,tt4730706,The Dwelling,Bed of the Dead,88,1185.0,False,2016
+8697,tt4786132,Lady-Like,Lady-Like,82,6001.0,False,2017
+8700,tt4797160,Larceny,,87,1029.0,False,2017
+8726,tt4877122,The Emoji Movie,,86,61019.0,False,2017
+8731,tt4888982,The Control,,94,1965.0,False,2018
+8737,tt4901304,Behemoth,,95,1020.0,True,2015
+8741,tt4907206,Turnt,,85,2290.0,False,2020
+8749,tt4922674,Parallel,,104,3008.0,False,2018
+8798,tt5068650,The Dark Tapes,The Dark Tapes,98,3233.0,False,2016
+8802,tt5075662,The Isle,The Isle,96,13633.0,False,2018
+8808,tt5088794,Dogs,Câini,104,2808.0,True,2016
+8814,tt5098836,I Believe in Miracles,,104,1568.0,True,2015
+8842,tt5165344,Rustom,Rustom,148,25503.0,True,2016
+8854,tt5208950,Kickboxer: Retaliation,,110,5209.0,False,2018
+8865,tt5232308,Zulfiqar,Zulfiqar,139,1272.0,False,2016
+8882,tt5275128,Destination: Dewsbury,Destination: Dewsbury,86,1247.0,False,2018
+8895,tt5291604,Swapnajaal,,141,1269.0,True,2018
+8901,tt5309954,Sadako vs. Kayako,Sadako vs Kayako,98,3211.0,False,2016
+8910,tt5342950,The Wolf Hour,,99,2433.0,False,2019
+8925,tt5431890,Official Secrets,Official Secrets,112,43234.0,True,2019
+8930,tt5451118,303,,145,7740.0,True,2018
+8942,tt5468014,Digimon Adventure Tri. Part 3: Confession,Digimon Adventure tri. 3: Kokuhaku,91,1028.0,True,2016
+8950,tt5481404,Dead Rising: Endgame,,96,2981.0,False,2016
+8953,tt5488854,Tales of an Immoral Couple,La vida inmoral de la pareja ideal,91,1675.0,True,2016
+8970,tt5537140,The Red Maple Leaf,,132,4513.0,False,2016
+8978,tt5562652,Vaxxed: From Cover-Up to Catastrophe,Vaxxed: From Cover-Up to Catastrophe,91,4781.0,False,2016
+8984,tt5574372,Nerdland,Nerdland,85,1051.0,False,2016
+8987,tt5580392,Amateur,Amateur,96,4153.0,False,2018
+8995,tt5598234,Bowie: The Man Who Changed the World,,85,1084.0,False,2016
+9002,tt5611648,Joker,,130,3417.0,True,2016
+9007,tt5634960,A Very Sordid Wedding,A Very Sordid Wedding,109,1479.0,False,2017
+9013,tt5648036,S.M.A.R.T. Chase,,95,5669.0,False,2017
+9021,tt5674368,Agent,Agent,80,1760.0,False,2017
+9022,tt5674842,A Stroke of Luck,Villaviciosa de al lado,90,1874.0,False,2016
+9059,tt5735582,The Tenants Downstairs,Lou xia de fang ke,110,1090.0,False,2016
+9074,tt5777628,One More Time with Feeling,One More Time with Feeling,113,4694.0,True,2016
+9090,tt5813366,Bleeding Steel,Ji qi zhi xue,109,9675.0,False,2017
+9091,tt5813916,The Mountain II,Dag II,135,107137.0,True,2016
+9128,tt5914350,"The Rolling Stones Ole, Ole, Ole!: A Trip Across Latin America",,105,1293.0,True,2016
+9129,tt5918074,A Death in the Gunj,,110,5022.0,True,2016
+9132,tt5932368,Vanquish,Vanquish,94,3612.0,False,2021
+9137,tt5946852,Janatha Garage,,162,6614.0,True,2016
+9143,tt5963218,Aloko Udapadi,,113,6746.0,True,2017
+9155,tt5997928,Hotel Salvation,,102,2143.0,True,2016
+9162,tt6042446,Vezir Parmagi,,111,2182.0,False,2017
+9169,tt6054650,A Question of Faith,,104,1068.0,False,2017
+9170,tt6063014,Before I Die,,142,1334.0,False,2016
+9172,tt6067752,Lucifer,Lucifer,175,9086.0,True,2019
+9174,tt6068978,Amityville Exorcism,,77,3600.0,False,2017
+9179,tt6082222,Yok Artik 2,,82,2017.0,False,2016
+9187,tt6108090,Secret Superstar,,150,23342.0,True,2017
+9191,tt6117702,Munna Michael,Munna Michael,140,3265.0,False,2017
+9192,tt6118340,The Basement,,90,5037.0,False,2018
+9219,tt6198946,The Hole in the Ground,The Hole in the Ground,90,17755.0,False,2019
+9227,tt6218010,Iron Mask,Tayna pechati drakona,120,5828.0,False,2019
+9231,tt6243140,Ravenous,Les affamés,104,8924.0,False,2017
+9237,tt6266984,Genis Aile 2: Her Turlu,,100,1190.0,False,2016
+9254,tt6328046,What's My Name: Muhammad Ali,,165,1952.0,True,2019
+9271,tt6360332,Is Genesis History?,Is Genesis History?,100,1545.0,False,2017
+9272,tt6360398,The Final Phase,La Última Fase,79,1487.0,False,2020
+9274,tt6365796,The Grizzlies,The Grizzlies,102,1826.0,True,2018
+9297,tt6490930,Project Ithaca,,85,2290.0,False,2019
+9303,tt6508228,Ghosts of War,,94,8932.0,False,2020
+9307,tt6512428,Indivisible,Indivisible,119,1188.0,False,2018
+9315,tt6542108,Patrick the Pug,Patrick,94,3403.0,False,2018
+9316,tt6544498,Oasis,Oasis,71,1270.0,True,2017
+9339,tt6627168,Listen,Listen,73,1411.0,True,2020
+9341,tt6643972,Triple Threat,Triple Threat,96,10849.0,False,2019
+9345,tt6654210,Infinite,,106,37575.0,False,2021
+9353,tt6692354,Ittefaq,,105,11781.0,True,2017
+9355,tt6708116,Bad Seeds,,100,5061.0,True,2018
+9357,tt6722976,The Elephant Queen,The Elephant Queen,96,1746.0,True,2018
+9359,tt6729000,Tyrel,,86,1260.0,False,2018
+9362,tt6739646,I Am Heath Ledger,,90,6465.0,True,2017
+9365,tt6747420,Rajma Chawal,Rajma Chawal,117,1782.0,False,2018
+9366,tt6747818,Room for Rent,,81,4745.0,False,2019
+9376,tt6781982,Night School,Night School,111,39118.0,False,2018
+9378,tt6791886,Como se Tornar o Pior Aluno da Escola,,106,1540.0,False,2017
+9390,tt6842770,Wild Mountain Thyme,,102,6600.0,False,2020
+9394,tt6851066,Filmworker,,94,3006.0,True,2017
+9432,tt7052244,Robin Hood: The Rebellion,,92,4596.0,False,2018
+9433,tt7054636,A Madea Family Funeral,A Madea Family Funeral,109,4225.0,False,2019
+9443,tt7097358,The Final Scream,The Final Scream,91,1085.0,False,2019
+9454,tt7179784,Irumbu Thirai,,160,4482.0,True,2018
+9460,tt7207238,Jane,,90,4919.0,True,2017
+9462,tt7214762,Jim & Andy: The Great Beyond,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",94,24951.0,True,2017
+9469,tt7231194,R.I.P.,Ee. Ma. Yau,120,3403.0,True,2018
+9484,tt7284202,Trespassers,Hell Is Where the Home Is,88,2648.0,False,2018
+9493,tt7310440,A Serial Killer's Guide to Life,A Serial Killer's Guide to Life,81,1271.0,False,2019
+9519,tt7392212,Rangasthalam 1985,,170,21302.0,True,2018
+9524,tt7401588,Instant Family,Instant Family,118,100642.0,True,2018
+9527,tt7439220,Askin Goren Gozlere Ihtiyaci yok,Askin Gören Gözlere Ihtiyaci yok,83,1454.0,False,2017
+9537,tt7485508,Carmen & Lola,,103,2684.0,True,2018
+9548,tt7531990,Gorevimiz Tatil,,110,1820.0,False,2018
+9586,tt7689936,The Cleaners,Im Schatten der Netzwelt,88,1663.0,True,2018
+9593,tt7692822,Driven,,90,3401.0,False,2019
+9602,tt7769346,Ekkees Tareekh Shubh Muhurat,Ekkees Tareekh Shubh Muhurat,97,2006.0,False,2018
+9608,tt7797658,Awe!,,150,4810.0,True,2018
+9615,tt7841496,Perdida,,103,4604.0,False,2018
+9622,tt7876510,My Thoughts Are Silent,My Thoughts Are Silent,104,2185.0,True,2019
+9640,tt7942936,Ibiza,Ibiza,87,1801.0,False,2019
+9656,tt8000718,The Operative,The Operative,116,5794.0,False,2019
+9657,tt8000908,Robert the Bruce,,124,3362.0,False,2019
+9663,tt8016662,Praana,Praana,107,1101.0,True,2019
+9666,tt8032912,Parwaaz Hai Junoon,Parwaaz Hai Junoon,130,1558.0,True,2018
+9670,tt8042292,Kannum Kannum Kollaiyadithaal,Kannum Kannum Kollaiyadithaal,160,6319.0,True,2020
+9709,tt8195518,Cuck,,115,16514.0,False,2019
+9710,tt8196692,Soul Hunters,Soul Hunters,101,5090.0,False,2019
+9713,tt8215480,Greatland,,104,2867.0,False,2020
+9740,tt8351646,5 Is the Perfect Number,5 è il numero perfetto,100,1267.0,False,2019
+9741,tt8354344,Witches in the Woods,,90,1598.0,False,2019
+9753,tt8380776,Grand Isle,,97,4497.0,False,2019
+9755,tt8388508,Dear Comrade,Dear Comrade,169,7604.0,True,2019
+9766,tt8435002,Great White,,91,6042.0,False,2021
+9768,tt8444450,Pet Graveyard,,100,1282.0,False,2019
+9773,tt8485772,Porno,Porno,98,2055.0,False,2019
+9774,tt8493998,Spare Parts,Spare Parts,91,1481.0,False,2020
+9781,tt8526872,Dolemite Is My Name,Dolemite Is My Name,118,58297.0,True,2019
+9818,tt8765580,Exit Plan,Selvmordsturisten,90,1446.0,False,2019
+9858,tt8999372,Sir Alex Ferguson: Never Give In,Sir Alex Ferguson: Never Give In,108,3758.0,True,2021
+9872,tt9067182,Rocks,,93,4247.0,True,2019
+9888,tt9128686,The Pool,,91,2222.0,False,2018
+9901,tt9178402,The Pale Door,The Pale Door,96,3156.0,False,2020
+9911,tt9224288,Mainstream,Mainstream,94,2076.0,False,2020
+9919,tt9260446,Don't Stop Me Now,,100,1057.0,False,2019
+9930,tt9352356,The Djinn,,82,3327.0,False,2021
+9944,tt9442842,In Search of Darkness,In Search of Darkness,264,2682.0,True,2019
+9949,tt9506474,The Hater,Sala samobójców. Hejter,135,14007.0,True,2020
+9952,tt9537532,Play or Die,Play or Die,89,1456.0,False,2019
+9954,tt9551936,Charlotte The Return,Charlotte 2,76,1688.0,False,2019
+9957,tt9580138,Mortal Kombat Legends: Scorpion's Revenge,Mortal Kombat Legends: Scorpion's Revenge,80,16223.0,True,2020
+9958,tt9586294,Better Days,,135,8011.0,True,2019
+9969,tt9652782,Bait,Bait,89,4356.0,True,2019
+9983,tt9766294,Fauji Calling,Fauji calling,134,2921.0,False,2021
+9986,tt9784798,Judas and the Black Messiah,Judas and the Black Messiah,126,65194.0,True,2021
