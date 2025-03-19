@@ -1,0 +1,1087 @@
+tconst,movie_title,year,numVotes,genre,content_rating,production_company,tomatometer_status,tomatometer_rating,audience_status,audience_rating,review_score,like_count,label_int,reviews,review_lemmatized
+tt0014972,He Who Gets Slapped - He Who Gets Slapped,1924,3654.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0015016,The Iron Horse - NaN,1924,2136.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0015174,Die Nibelungen: Kriemhild's Revenge - NaN,1924,4341.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0015214,At 3:25 - NaN,1925,1724.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0015863,Go West - NaN,1925,4188.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0016481,Variety - Variete,1925,1188.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0017136,Metropolis - NaN,1927,168372.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0018876,The Farmer's Wife - NaN,1928,2741.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0019074,"Laugh, Clown, Laugh - Laugh, Clown, Laugh",1928,1934.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0021730,The Champ - NaN,1931,3057.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0022074,The Smiling Lieutenant - NaN,1931,3632.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0022080,Limit - NaN,1931,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0023241,Movie Crazy - NaN,1932,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0023775,Baby Face - NaN,1933,6775.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0023940,Design for Living - Design for Living,1933,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0024028,Footlight Parade - Footlight Parade,1933,5285.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0024240,Lady for a Day - Lady for a Day,1933,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0025746,The Scarlet Empress - NaN,1934,6400.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0025862,Tarzan and His Mate - NaN,1934,5033.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0025929,A Story of Floating Weeds - Ukikusa monogatari,1934,3032.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0027307,Mr. Thank You - NaN,1936,1063.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0027442,Charlie Chan's Secret - Charlie Chan's Secret,1936,1548.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0027657,The Garden of Allah - The Garden of Allah,1936,1519.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0028356,These Three - NaN,1936,2627.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0028988,Heidi - Heidi,1937,4406.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0031359,Gaslight - NaN,1940,4265.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0031514,Le Jour Se Leve - Le jour se leve,1939,7394.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0031619,The Man in the Iron Mask - The Man in the Iron Mask,1939,1662.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0032457,The Fatal Hour - NaN,1940,1086.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0033028,The Sea Hawk - The Sea Hawk,1940,9671.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0033238,Waterloo Bridge - Waterloo Bridge,1940,9631.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0034012,Penny Serenade - Penny Serenade,1941,6823.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0034027,'Pimpernel' Smith - 'Pimpernel' Smith,1941,1533.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0034586,Castle in the Desert - NaN,1942,1314.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0035019,The Major and the Minor - NaN,1942,6733.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0035100,My Favorite Blonde - NaN,1942,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0035279,Saboteur - Saboteur,1942,24953.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0035521,Les Visiteurs du Soir - NaN,1942,2131.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0036641,Between Two Worlds - Between Two Worlds,1944,2036.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0036891,Hail the Conquering Hero - Hail the Conquering Hero,1944,4612.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0037558,Brief Encounter - NaN,1945,38545.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0037638,Detour - Detour,1945,16724.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0037865,Leave Her to Heaven - NaN,1945,12052.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0037988,The Picture of Dorian Gray - The Picture of Dorian Gray,1945,12786.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0038650,It's a Wonderful Life - It's a Wonderful Life,1946,427625.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039563,O Leao da Estrela - NaN,1947,1145.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039628,Miracle on 34th Street - Miracle on 34th Street,1947,45110.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039666,Nora Prentiss - NaN,1947,1672.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039689,Out of the Past - Out of the Past,1947,35566.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039725,Possessed - NaN,1947,5239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0039941,The Unsuspected - NaN,1947,3019.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0040064,3 Godfathers - NaN,1948,9123.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0040613,Mr. Blandings Builds His Dream House - NaN,1948,11121.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0040643,Night Has a Thousand Eyes - NaN,1948,1219.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0040876,The Three Musketeers - NaN,1948,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0041445,The Hasty Heart - NaN,1949,1350.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0041716,On the Town - NaN,1949,17044.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0041859,The Set-Up - The Set-Up,1949,8575.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0042041,White Heat - White Heat,1949,31831.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0042546,Harvey - Harvey,1950,54434.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0043456,The Day the Earth Stood Still - NaN,1951,80134.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0043476,Double Dynamite - Double Dynamite,1951,1085.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0044000,The White Sheik - NaN,1952,6028.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0044762,Jack and the Beanstalk - NaN,1952,3090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0044860,The Lusty Men - NaN,1952,2955.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0045125,Scaramouche - Scaramouche,1952,5837.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0046004,Little Fugitive - Little Fugitive,1953,2702.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0047203,Magnificent Obsession - NaN,1954,6482.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0047638,The Woman of Rumour - Uwasa no onna,1954,1186.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0048317,Love Me or Leave Me - Love Me or Leave Me,1955,4063.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0048579,Samurai II: Duel at Ichijoji Temple - Zoku Miyamoto Musashi: Ichijoji no ketto,1955,6090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0048933,Street of Shame - Akasen chitai,1956,4232.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0048956,Aparajito - NaN,1956,13304.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0049207,Il ferroviere - NaN,1956,1177.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0049291,The Harder They Fall - NaN,1956,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0049408,The King and I - NaN,1956,25179.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0049516,The Mole People - The Mole People,1956,3384.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0049674,Richard III - NaN,1955,4461.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0050091,Seven Days from Now - NaN,1957,1661.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0050201,Blood of Dracula - NaN,1957,1263.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0050347,Edge of the City - NaN,1957,2976.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0050381,Hercules - NaN,1958,2022.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0050706,Mon Oncle - Mon oncle,1958,21340.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0051020,The Strange World of Planet X - NaN,1958,1135.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0051036,Sweet Smell of Success - NaN,1957,30483.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0051404,Le Beau Serge - NaN,1958,3276.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0051927,We Only Live Once - NaN,1958,1616.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0052700,Compulsion - NaN,1959,6404.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0052724,Day of the Outlaw - Day of the Outlaw,1959,3558.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0052993,Last Train from Gun Hill - NaN,1959,7447.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053134,Good Morning - NaN,1959,9008.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053361,Tiger Bay - Tiger Bay,1959,2778.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053459,Eyes Without a Face - Les yeux sans visage,1960,30230.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053602,The Angry Silence - NaN,1960,1382.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053604,The Apartment - The Apartment,1960,173976.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053643,Bell' Antonio - NaN,1960,1509.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053666,Les Bonnes Femmes - NaN,1960,2727.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053917,Home from the Hill - NaN,1960,3190.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0053935,Ice Cold in Alex - Ice Cold in Alex,1958,5532.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054130,La Notte - NaN,1961,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054152,Our Man in Havana - Our Man in Havana,1959,5284.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054389,Shoot the Piano Player - Tirez sur le pianiste,1960,18707.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054407,Le Trou - Le trou,1960,17032.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054614,All Night Long - NaN,1962,1252.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0054734,The Counterfeiters of Paris - NaN,1961,1221.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0055093,Lola - NaN,1961,6239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0056405,Reptilicus - Reptilicus,1961,3910.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0056923,Charade - Charade,1963,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0057542,Summer Magic - Summer Magic,1963,2366.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0057546,The Sword in the Stone - The Sword in the Stone,1963,94275.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0057611,The Silence - NaN,1963,19135.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0057997,Dead Ringer - NaN,1964,5415.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0058301,Russ Meyer's Lorna - NaN,1964,1090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0058461,A Fistful of Dollars - NaN,1964,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0058557,Seance on a Wet Afternoon - NaN,1964,6528.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0058561,The Secret Invasion - NaN,1964,1095.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0058625,Woman in the Dunes - NaN,1964,19054.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0059219,Genghis Khan - NaN,1965,2132.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0059616,The Trial of Joan of Arc - NaN,1962,4667.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0059711,Shenandoah - NaN,1965,8494.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0059742,The Sound of Music - The Sound of Music,1965,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0059817,Tokyo Olympiad - NaN,1965,1917.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0060401,Pharaoh - Faraon,1966,1881.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0060747,Neulovimye mstiteli - NaN,1967,1766.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0060782,One Million Years B.C. - One Million Years B.C.,1966,8278.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0061191,The Wild World of Batwoman - The Wild World of Batwoman,1966,4622.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0061196,Wings - NaN,1966,1888.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0061398,Berserk - NaN,1967,2181.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0061648,Far from the Madding Crowd - NaN,1967,5599.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0061752,Even the Wind Is afraid - NaN,1968,1544.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0062490,Who's Minding the Mint? - Who's Minding the Mint?,1967,1034.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0062657,The Ambushers - NaN,1967,1944.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0062687,Asterix and Cleopatra - NaN,1968,12615.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0063210,Lady in Cement - NaN,1968,2253.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0063278,Marketa Lazarova - Marketa Lazarova,1967,5038.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0063477,The Queen - NaN,1968,1079.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0063592,Shalako - NaN,1968,3012.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0063643,"Stay Away, Joe - Stay Away, Joe",1968,1262.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0064038,The Land - Al-ard,1969,1827.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0064368,Gheisar - Gheisar,1969,3201.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0064387,Goyokin - NaN,1969,2299.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0065230,Young Billy Young - Young Billy Young,1969,1225.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0065233,"Go, Go, Second Time Virgin - Yuke yuke nidome no shojo",1969,2482.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0065439,The Confession - NaN,1970,4173.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0065591,Crimes of the Future - Crimes of the Future,1970,1881.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066109,The Music Lovers - The Music Lovers,1971,2555.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066160,The Werewolf Versus the Vampire Woman - NaN,1971,1640.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066279,The Railway Children - The Railway Children,1970,4484.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066461,One Song a Day Takes Mischief Away - Tko pjeva zlo ne misli,1970,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066511,Many Wars Ago - NaN,1970,1601.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0066817,Bedknobs and Broomsticks - NaN,1971,36218.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067249,Inn of Evil - NaN,1971,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067277,Johnny Got His Gun - Johnny Got His Gun,1971,16431.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067309,Klute - NaN,1971,24835.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067355,They Call Me Trinity - Lo chiamavano Trinita...,1970,21367.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067637,The Legend of Frenchie King - NaN,1971,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067650,Raid on Rommel - NaN,1971,2218.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067810,Sweet Sweetback's Baadasssss Song - Sweet Sweetback's Baadasssss Song,1971,5031.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067820,Taking Off - Taking Off,1971,4263.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067866,El Topo - El Topo,1970,28167.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067961,Wanda - NaN,1970,3955.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0067972,Werewolves on Wheels - NaN,1971,1368.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0068156,1776 - 1776,1972,9349.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0068817,Lone Wolf and Cub: Baby Cart to Hades - NaN,1972,4900.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0068983,My Childhood - NaN,1972,1193.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0069729,The Arena - NaN,1974,1687.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0069994,Don't Look in the Basement - The Forgotten,1973,3066.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070039,Horror Rises from the Tomb - NaN,1973,1289.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070233,Ivan Vasilyevich Changes His Profession - Ivan Vasilevich menyaet professiyu,1973,15970.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070239,Jesus Christ Superstar - Jesus Christ Superstar,1973,26405.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070246,Battles Without Honor and Humanity - NaN,1973,3635.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070291,The Last of Sheila - The Last of Sheila,1973,6068.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070379,Mean Streets - Mean Streets,1973,105717.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0070464,O Lucky Man! - NaN,1973,8065.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0071269,California Split - NaN,1974,6638.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0071627,The House of Seven Corpses - The House of Seven Corpses,1974,1398.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0071696,Police Tactics - Jingi naki tatakai: Chojo sakusen,1974,1058.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0072783,Chupke Chupke - Chupke Chupke,1975,12259.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0072930,Black Emanuelle - Emanuelle nera,1975,1395.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0072960,Trauma - Expose,1976,1076.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0073486,One Flew Over the Cuckoo's Nest - NaN,1975,963095.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0073540,Picnic at Hanging Rock - Picnic at Hanging Rock,1975,36188.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0073580,The Passenger - Professione: reporter,1975,22980.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074235,Bound for Glory - Bound for Glory,1976,4946.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074360,Cria Cuervos - Cria cuervos,1976,9865.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074540,The Food of the Gods - NaN,1976,3944.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074730,Kabhi Kabhie - NaN,1976,2077.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074916,Mr. Klein - NaN,1976,6904.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0074923,"Mother, Jugs & Speed - NaN",1976,3089.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0075404,The Ascent - Voskhozhdenie,1977,7862.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0075675,The American Friend - NaN,1977,15561.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0075704,Audrey Rose - Audrey Rose,1977,5870.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0075824,That Obscure Object of Desire - NaN,1977,22104.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0075860,Close Encounters of the Third Kind - Close Encounters of the Third Kind,1977,194212.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0076200,Behind Convent Walls - Interno di un convento,1978,1164.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0076591,"Race for Your Life, Charlie Brown - NaN",1977,3432.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0076706,Short Eyes - Short Eyes,1977,1275.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0076933,The World's Greatest Lover - The World's Greatest Lover,1977,2054.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0077210,Barracuda - Barracuda,1978,1103.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0077280,The Buddy Holly Story - The Buddy Holly Story,1978,8768.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0078382,Thank God It's Friday - Thank God It's Friday,1978,2678.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0078481,A Wedding - NaN,1978,3441.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0079063,Don Giovanni - NaN,1979,1195.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0079193,The Garage - NaN,1980,3654.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0079619,A Few Days from the Life of I.I. Oblomov - Neskolko dney iz zhizni I.I. Oblomova,1980,2258.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0079688,Over the Edge - NaN,1979,6795.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0079980,Serie Noire - NaN,1979,2898.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0080009,Tess - Tess,1979,16228.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0080172,Heroes of the East - NaN,1978,2159.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0080515,A Change of Seasons - A Change of Seasons,1980,1019.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0080738,The First Deadly Sin - The First Deadly Sin,1980,1952.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0081248,Burial Ground: The Nights of Terror - Le notti del terrore,1981,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0081590,Sallskapsresan eller Finns det svenskt kaffe pa grisfesten - Sallskapsresan eller Finns det svenskt kaffe pa grisfesten,1980,7783.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0081617,Terror Train - NaN,1980,11445.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082243,Strange Behavior - NaN,1981,1889.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082406,The Fox and the Hound - The Fox and the Hound,1981,89382.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082467,Graduation Day - NaN,1981,3910.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082497,The Hand - NaN,1981,5970.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082507,Heartbeeps - Heartbeeps,1981,1465.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0082763,Modern Problems - NaN,1981,5167.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083033,Saturday the 14th - Saturday the 14th,1981,4185.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083081,Silsila - Silsila,1981,2712.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083193,This Is Elvis - This Is Elvis,1981,1272.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083326,Whose Life Is It Anyway? - Whose Life Is It Anyway?,1981,2787.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083618,Banzai - NaN,1983,1592.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0083987,Gandhi - Gandhi,1982,224599.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084390,The Ballad of Narayama - NaN,1983,7964.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084589,The Return of Martin Guerre - NaN,1982,4331.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084694,The Slayer - NaN,1982,2480.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084807,Boat People - NaN,1982,1138.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084854,Venom - Venom,1981,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0084921,Five Elements Ninjas - NaN,1982,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085178,Ardh Satya - NaN,1983,1674.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085473,Eddie Macon's Run - Eddie Macon's Run,1983,1166.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085622,The Grey Fox - The Grey Fox,1982,2002.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085743,Jaane Bhi Do Yaaro - NaN,1983,13797.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085750,Jaws 3-D - Jaws 3-D,1983,42624.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0085935,Metalstorm: The Destruction of Jared-Syn - NaN,1983,1740.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086190,Star Wars: Episode VI - Return of the Jedi - Star Wars: Episode VI - Return of the Jedi,1983,996407.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086230,Sadma - NaN,1983,3105.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086232,Sahara - Sahara,1983,1621.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086264,Screwballs - Screwballs,1983,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086379,Stroker Ace - Stroker Ace,1983,3823.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086420,"So Long, Stooge - Tchao pantin",1983,2635.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0086617,The Year of Living Dangerously - The Year of Living Dangerously,1982,20825.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0087001,A Breed Apart - NaN,1984,1550.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0087578,Wheels on Meals - NaN,1984,12918.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0087731,Give the Devil His Due - S certy nejsou zerty,1985,1111.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0088103,Sheena: Queen of the Jungle - NaN,1984,4812.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0088931,The Coca-Cola Kid - NaN,1985,3025.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0089085,Elvis Gratton: Le king des kings - Elvis Gratton: Le king des kings,1985,1214.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0089338,Cut and Run - Inferno in diretta,1984,2220.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0090185,"A Time to Live, a Time to Die - Tongnian wangshi",1985,2840.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0090368,A Cruel Romance - Zhestokiy romans,1984,3499.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0091214,Man Facing Southeast - NaN,1986,3941.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0091507,Melo - Melo,1986,1488.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0091534,Modern Girls - NaN,1986,1464.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0092559,And God Created Woman - And God Created Woman,1988,1898.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0092795,Creepozoids - NaN,1987,2340.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0092804,Cry Freedom - NaN,1987,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0092848,Deadly Prey - NaN,1987,2946.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0093058,Full Metal Jacket - Full Metal Jacket,1987,708396.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0093171,Hell Comes to Frogtown - Hell Comes to Frogtown,1988,6069.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0093215,Hot Pursuit - Hot Pursuit,1987,3637.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0093779,The Princess Bride - NaN,1987,413048.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0093978,A Chinese Ghost Story - NaN,1987,9577.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0094315,The Whales of August - NaN,1987,4688.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0094747,Bird - Bird,1988,12215.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0095454,The Kiss - The Kiss,1988,1638.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0096028,Salaam Bombay! - Salaam Bombay!,1988,9116.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0096193,Sunset - NaN,1988,4098.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0096336,Story of Women - Une affaire de femmes,1988,4442.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097001,C.H.U.D. II: Bud the Chud - NaN,1989,3630.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097100,Communion - Communion,1989,6228.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097108,"The Cook, the Thief, His Wife & Her Lover - The Cook, the Thief, His Wife & Her Lover",1989,36911.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097236,Dream a Little Dream - NaN,1989,6864.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097733,Lethal Weapon 2 - NaN,1989,169707.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097778,Look Who's Talking - Look Who's Talking,1989,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0097958,National Lampoon's Christmas Vacation - NaN,1989,172048.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0098052,Paganini - NaN,1989,1012.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0098184,Relentless - NaN,1989,1537.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0098645,Who's Harry Crumb? - NaN,1989,15935.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0099587,Flight of the Intruder - Flight of the Intruder,1991,6873.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0099697,Graveyard Shift - NaN,1990,10892.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0099776,Europa Europa - NaN,1990,15881.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0100196,Mountains of the Moon - Mountains of the Moon,1990,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0100911,"Welcome Home, Roxy Carmichael - NaN",1990,5349.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0101414,Beauty and the Beast - NaN,1991,431403.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0102421,Mother - Mayrig,1991,3407.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0102701,Prahaar: The Final Attack - Prahaar: The Final Attack,1991,1926.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0103157,The Unborn - The Unborn,1991,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0103994,Like Water for Chocolate - Como agua para chocolate,1992,17576.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104036,The Crying Game - The Crying Game,1992,53979.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104082,The Democratic Terrorist - Den demokratiske terroristen,1992,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104279,Flodder in Amerika! - Flodder in Amerika!,1992,4691.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104350,The Best Intentions - Den goda viljan,1992,3162.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104694,A League of Their Own - A League of Their Own,1992,100550.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104804,Man Trouble - Man Trouble,1992,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104879,Miracle Beach - NaN,1992,1488.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0104940,The Muppet Christmas Carol - The Muppet Christmas Carol,1992,53459.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0105137,Piano Piano Kid - NaN,1991,1850.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0105151,The Player - The Player,1992,58098.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0105291,Ruby - NaN,1992,1561.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0106417,Sailor Moon R: The Movie: The Promise of the Rose - NaN,1993,2511.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0107007,Gettysburg - NaN,1993,28472.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0107009,Ghost in the Machine - NaN,1993,3693.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0107157,The Puppetmaster - Xi meng ren sheng,1993,1821.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0107920,Raining Stones - NaN,1993,4430.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0108148,Iron Monkey - NaN,1993,16088.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0108176,Remote Control - Sodoma Reykjavik,1992,1078.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0108187,Son of the Pink Panther - NaN,1993,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0108277,TC 2000 - NaN,1993,1143.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0108394,Three Colors: Blue - NaN,1993,97583.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0109370,Canadian Bacon - Canadian Bacon,1995,16744.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0109442,Class of 1999 II: The Substitute - NaN,1994,1529.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0109478,The Cool Surface - NaN,1993,1281.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0110076,Hum Aapke Hain Koun..! - NaN,1994,20533.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0110659,In the Middle of Nowhere - NaN,1994,1034.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0110932,Quiz Show - NaN,1994,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0111093,Scorned - Scorned,1993,1696.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0111264,Spitfire - Spitfire,1995,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0111361,Tammy and the T-Rex - Tammy and the T-Rex,1994,3875.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0112641,Casino - NaN,1995,493532.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0112685,"Class of Nuke 'Em High Part 3: The Good, the Bad and the Subhumanoid - Class of Nuke 'Em High Part 3: The Good, the Bad and the Subhumanoid",1994,1174.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0112873,A Story About Love - Dis - en historie om kjaerlighet,1995,3147.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0113014,Fall Time - NaN,1995,1858.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0113114,Free Willy 2: The Adventure Home - NaN,1995,17989.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0113598,Lang leve de koningin - Lang leve de koningin,1995,1149.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0113855,Mortal Kombat - NaN,1995,115334.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0113982,Night of the Scarecrow - Night of the Scarecrow,1995,1205.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0114323,Safe - Safe,1995,14501.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0114626,Tato - Tato,1995,1499.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0114746,12 Monkeys - Twelve Monkeys,1995,599944.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0114814,The Usual Suspects - NaN,1995,1038523.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0115042,Zamaana Deewana - NaN,1995,1985.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0115822,Captain Conan - NaN,1996,2233.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0116589,Hype! - NaN,1996,2622.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0116707,Joe's Apartment - Joe's Apartment,1996,13129.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0116739,How the War Started on My Island - NaN,1996,2683.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0116962,Mahjong - Ma jiang,1996,1238.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117151,"Goodbye, South, Goodbye - NaN",1996,1681.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117342,Pinocchio's Revenge - Pinocchio's Revenge,1996,2124.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117550,Santa with Muscles - Santa with Muscles,1996,8960.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117555,The Perfect Circle - Savrseni krug,1997,2185.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117615,Shall We Dance? - Shall we dansu?,1996,10925.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117731,Star Trek: First Contact - NaN,1996,122337.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0117965,The Trigger Effect - The Trigger Effect,1996,7689.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119013,Double Team - NaN,1997,33481.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119142,For Richer or Poorer - NaN,1997,10849.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119169,Fireworks - Fuochi d'artificio,1997,1297.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119190,George of the Jungle - NaN,1997,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119263,The River - NaN,1997,2904.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119349,The Ice Storm - The Ice Storm,1997,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0119560,No Looking Back - NaN,1998,2031.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120126,Sick - NaN,1997,1647.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120586,American History X - NaN,1998,1076118.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120623,A Bug's Life - A Bug's Life,1998,280187.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120701,Holy Man - NaN,1998,19791.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120710,In Dreams - In Dreams,1999,12897.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120714,The Interview - The Interview,1998,8341.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120737,The Lord of the Rings: The Fellowship of the Ring - NaN,2001,1750905.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0120878,The Velocity of Gary - NaN,1998,1792.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0122670,"Jack of All Trades, Master of None - Polytehnitis kai erimospitis",1963,1104.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0122770,Valley of the Bees - Udoli vcel,1968,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0123832,Family Plan - Family Plan,1997,1091.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0123948,Cure - Cure,1997,13676.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0126388,Legionnaire - NaN,1998,23681.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0131646,Wing Commander - NaN,1999,16675.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0133046,Teaching Mrs. Tingle - Teaching Mrs. Tingle,1999,20488.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0133240,Treasure Planet - NaN,2002,111137.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0135165,Bug Buster - NaN,1998,1028.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0135641,Sapoot - NaN,1996,1107.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0135790,Bang Boom Bang - Ein todsicheres Ding - NaN,1999,10072.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0137439,Autumn Tale - NaN,1998,5058.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0138393,The Decline of Western Civilization Part III - NaN,1998,1296.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0138704,Pi - NaN,1998,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0139820,The Red Angel - NaN,1966,1359.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0139876,Baasha - NaN,1995,9913.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0140399,Muthu - Muthu,1995,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0141897,Terror - Terror,1978,1410.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0142238,Dragon Ball Z: Bojack Unbound - NaN,1993,5845.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0142772,The Polish Bride - NaN,1998,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0143012,Zatoichi's Vengeance - Zatoichi no uta ga kikoeru,1966,1090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0144964,Highlander: Endgame - Highlander: Endgame,2000,20084.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0146675,End of Days - End of Days,1999,108600.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0156587,Flowers of Shanghai - NaN,1998,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0157016,I Stand Alone - NaN,1998,22678.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0162830,Twin Falls Idaho - Twin Falls Idaho,1999,5075.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0163494,Space Adventure Cobra - Space Adventure Cobra,1982,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0163984,"Blood, Guts, Bullets and Octane - Blood, Guts, Bullets and Octane",1998,1107.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0166158,Daddy and Them - NaN,2001,2346.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0166233,Kad mrtvi zapjevaju - NaN,1998,1090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0168269,Cinderella - Zolushka,1947,1229.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0168504,A Better Way to Die - NaN,2000,1638.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0169547,American Beauty - American Beauty,1999,1113105.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0172761,Major Saab - Major Saab,1998,2151.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0173682,Sky High - NaN,1985,1259.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0177215,Seven Girlfriends - Seven Girlfriends,1999,1465.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0178988,Whiteboyz - Whiteboyz,1999,1866.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0180073,Quills - NaN,2000,53239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0180748,In China They Eat Dogs - NaN,1999,21311.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0181051,Tight Skin 4 - NaN,1991,1496.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0181875,Almost Famous - NaN,2000,267258.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0188674,Human Traffic - NaN,1999,24421.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0194314,Romance - Romance,1999,10561.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0196857,Play It to the Bone - Play It to the Bone,1999,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0200768,Sword of the Beast - NaN,1965,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0206963,My First Mister - My First Mister,2001,5591.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0217086,Devil in the Flesh 2 - NaN,2000,1383.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0221027,Blow - Blow,2001,250058.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0233289,The Bare Wench Project - NaN,2000,1015.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0238112,Captain Corelli's Mandolin - Captain Corelli's Mandolin,2001,33883.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0239096,The Humpbacked Horse - NaN,1975,1032.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0239102,Wild Flowers - Kytice,2000,1353.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0239948,Saving Silverman - Saving Silverman,2001,40090.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0241303,Chocolat - Chocolat,2000,185588.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0242423,"Dude, Where's My Car? - Dude, Where's My Car?",2000,137825.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0242998,Valentine - Valentine,2001,27338.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0243889,Eureka - NaN,2000,3779.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0245674,Thir13en Ghosts - NaN,2001,85019.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0245910,Cheap Smokes - Ftina tsigara,2000,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0248216,Na Tum Jaano Na Hum - Na Tum Jaano Na Hum,2002,2833.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0250122,Yeshwant - NaN,1997,1105.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0252444,Rabbit-Proof Fence - Rabbit-Proof Fence,2002,28327.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0252618,Koseyi Donen Adam - NaN,1978,2713.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0253619,Sahte Kabadayi - NaN,1976,5720.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0253963,Yedi Bela Husnu - NaN,1983,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0254775,The Red Siren - NaN,2002,1317.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0255641,Thalavattam - Thalavattam,1986,1187.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0256408,Startup.com - NaN,2001,3386.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0257516,Cursed - Cursed,2005,32084.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0257568,Kangaroo Jack - Kangaroo Jack,2003,31020.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0265298,Big Fat Liar - Big Fat Liar,2002,36534.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0265666,The Royal Tenenbaums - NaN,2001,280138.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0266519,Everything for a Reason - Everything for a Reason,2000,1541.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0269856,Ritual - NaN,2000,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0270053,Vizontele - Vizontele,2001,35543.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0270980,My Boss's Daughter - NaN,2003,29085.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0271136,Quicksand - NaN,2003,2467.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0277412,Unspeakable - Unspeakable,2002,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0278295,All About the Benjamins - NaN,2002,14584.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0279112,"Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack - NaN",2001,5897.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0280486,Bad Company - NaN,2002,47361.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0282120,The Wild Thornberrys - NaN,2002,14543.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0285441,Atanarjuat: The Fast Runner - Atanarjuat,2001,6537.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0286476,Autumn Spring - NaN,2001,1777.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0287471,Late Marriage - NaN,2001,3279.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0288045,The Medallion - NaN,2003,40738.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0289229,Hukkle - Hukkle,2002,3666.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0289320,Stuff and Dough - Marfa si banii,2001,2064.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0291392,Novo - Novo,2002,2583.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0293508,The Phantom of the Opera - NaN,2004,119971.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0297780,Beyond the Limits - NaN,2003,1131.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0301848,Slash - Slash,2002,1580.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0301893,State Property - State Property,2002,2069.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0301989,Visitors - NaN,2003,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0301992,Full Moon Party - NaN,2002,1533.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0303021,Second Name - NaN,2002,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0303353,The Kid Stays in the Picture - NaN,2002,7280.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0307538,Swing - NaN,2002,1022.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0307901,25th Hour - NaN,2002,175552.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0309986,Paper Soldiers - Paper Soldiers,2002,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0311429,The League of Extraordinary Gentlemen - NaN,2003,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0312329,Against the Ropes - Against the Ropes,2004,7062.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0314067,Philanthropy - NaN,2002,12905.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0314121,Mortadelo & Filemon: The Big Adventure - La gran aventura de Mortadelo y Filemon,2003,3407.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0315632,Road - Road,2002,1246.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0317705,The Incredibles - NaN,2004,687778.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0317910,The Fog of War - NaN,2003,23943.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0318040,Evil Breed: The Legend of Samhain - NaN,2003,1567.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0318155,Looney Tunes: Back in Action - Looney Tunes: Back in Action,2003,36305.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0319829,Masked and Anonymous - NaN,2003,4698.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0319836,The Clay Bird - NaN,2002,3989.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0320661,Kingdom of Heaven - NaN,2005,278181.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0322545,Berlin Blues - Herr Lehmann,2003,7188.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0327056,Mystic River - NaN,2003,440995.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0327835,El harrif - El harrif,1983,1160.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0328998,Dil Hai Tumhaara - Dil Hai Tumhaara,2002,1834.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0329717,Hollywood Homicide - Hollywood Homicide,2003,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0329794,A Cosmic Adventure on Earth - NaN,2002,1147.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0330069,Blue Collar Comedy Tour: The Movie - Blue Collar Comedy Tour: The Movie,2003,4442.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0333388,Edificio Master - NaN,2002,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0333766,Garden State - NaN,2004,212793.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0334754,Yossi & Jagger - NaN,2002,7097.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0338564,Infernal Affairs - Mou gaan dou,2002,122077.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0339642,Daltry Calhoun - NaN,2005,2354.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0346507,Andaaz - Andaaz,2003,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0351238,Distant Lights - Lichter,2003,1994.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0352994,Walk on Water - Walk on Water,2004,6734.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0358456,Earthlings - Earthlings,2005,18712.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0359045,Bear Cub - NaN,2004,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0360960,Shadows of Time - NaN,2004,1114.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0361620,First Daughter - First Daughter,2004,22350.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0363282,New York Minute - New York Minute,2004,22933.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0365109,Deep Blue - NaN,2003,2969.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0365480,Marie and Bruce - NaN,2004,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0368249,School for Seduction - School for Seduction,2004,1135.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0368400,Vaalee - Vaalee,1999,3513.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0368711,End of the Century - End of the Century,2003,3727.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0373690,Arsene Lupin - Arsene Lupin,2004,7094.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0373856,Gangaajal - Gangaajal,2003,16712.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0374252,Sugar - NaN,2004,1961.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0375100,Drowning Ghost - NaN,2004,2048.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0375880,Kaadhal Konden - Kaadhal Konden,2003,2108.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0376968,The Return - Vozvrashchenie,2003,44549.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0377109,The Ring Two - The Ring Two,2005,94372.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0377556,"Goodbye, Dragon Inn - NaN",2003,4710.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0377992,The Gospel of John - NaN,2003,3675.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0378417,Night of the Living Dorks - NaN,2004,2729.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0378867,Testosterone - NaN,2003,1214.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0379557,Touching the Void - NaN,2003,35097.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0379730,Charlie: The Life and Art of Charles Chaplin - Charlie: The Life and Art of Charles Chaplin,2003,1368.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0380349,The Corsican File - NaN,2004,3833.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0381061,Casino Royale - Casino Royale,2006,630495.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0381966,Creep - Creep,2004,29331.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0382019,Eternal - NaN,2004,1401.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0382028,Fat Slags - NaN,2004,3929.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0383995,Les clefs de bagnole - Les clefs de bagnole,2003,1465.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0385363,Let's Make a Grandson - NaN,2003,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0386064,Tae Guk Gi: The Brotherhood of War - Taegukgi hwinalrimyeo,2004,39068.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0387564,Saw - NaN,2004,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0388242,Mariages! - Mariages!,2004,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0395173,Unconscious - Inconscientes,2004,2105.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0396690,Kisna: The Warrior Poet - NaN,2005,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0398883,The Consequences of Love - Le conseguenze dell'amore,2004,16469.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0403407,Perfect Creature - NaN,2006,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0404552,The Life - NaN,2004,1708.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0405861,The Deal - The Deal,2005,1865.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0406158,"The Prize Winner of Defiance, Ohio - The Prize Winner of Defiance, Ohio",2005,7404.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0408017,Everything About Mustafa - NaN,2004,9334.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0409527,Shabd - Shabd,2005,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0409947,Face - Peiseu,2004,1160.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0411815,Run - Run,2004,1336.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0413893,Cha no aji - NaN,2004,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0421054,Domino - NaN,2005,66212.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0422774,Are We Done Yet? - Are We Done Yet?,2007,20684.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0424986,The Headmaster - El Nazer,2000,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0426155,Ushpizin - NaN,2004,2016.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0427392,The Invasion - The Invasion,2007,77073.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0428803,March of the Penguins - La marche de l'empereur,2005,57339.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0429589,The Ant Bully - The Ant Bully,2006,38497.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0433360,Dark Remains - NaN,2005,1396.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0434964,Gammera the Invincible - NaN,1966,1147.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0435770,The Visitation - The Visitation,2006,2668.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0436854,Tulpan - Tulpan,2008,3239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0437800,Akeelah and the Bee - NaN,2006,19553.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0441761,Free Zone - NaN,2005,2872.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0442781,Varalaaru - Varalaaru,2006,3101.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0449629,P - P,2005,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0450450,The Italian - NaN,2005,3178.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0452971,Dark Blue Almost Black - NaN,2006,7994.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0453453,Beer League - Beer League,2006,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0455960,The Hitcher - NaN,2007,42360.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0457433,Perfect Stranger - Perfect Stranger,2007,46967.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0462395,Larry the Cable Guy: Health Inspector - NaN,2006,13134.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0462517,Haunted Forest - NaN,2007,1438.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0469683,Automaton Transfusion - Automaton Transfusion,2006,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0473697,Satanas - Satanas,2007,1696.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0473829,Camping - Camping,2006,3479.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0475590,Scary Hair - Gabal,2005,1265.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0476603,The Three Investigators and the Secret of Skeleton Island - The Three Investigators and the Secret of Skeleton Island,2007,1337.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0477991,Kinetta - NaN,2005,1708.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0478329,The Gray Man - The Gray Man,2007,1641.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0478338,Zizek! - Zizek!,2005,1639.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0478970,Ant-Man - NaN,2015,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0480271,Van Wilder 2: The Rise of Taj - NaN,2006,22935.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0480732,Shyamol Chhaya - NaN,2004,2084.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0482901,The Pope's Toilet - NaN,2007,2751.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0483131,Rajamanikyam - NaN,2005,2315.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0484562,The Seeker: The Dark Is Rising - The Seeker: The Dark Is Rising,2007,15268.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0485774,Heartstopper - Heartstopper,2006,1308.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0487156,Air Force 2 - NaN,2006,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0487504,Crime Insiders - NaN,2007,1494.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0488120,Fracture - NaN,2007,196435.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0488478,12 - 12,2007,14432.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0488870,Always: Sunset on Third Street - NaN,2005,2247.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0490181,Mutant Chronicles - Mutant Chronicles,2008,26161.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0493076,Nina - NaN,2016,2804.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0494501,"The Class of Chaos 3,5 - Hababam Sinifi Uc Bucuk",2005,7972.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0494816,The Baggy Trousers Case - NaN,1983,2491.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0494834,Silk - Silk,2007,11284.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0497432,The Rage - The Rage,2007,1875.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0498329,We Live in Public - We Live in Public,2009,1886.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0758762,The Last Sentinel - The Last Sentinel,2007,1725.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0762115,The List - The List,2007,1714.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0765429,American Gangster - NaN,2007,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0765430,American Zombie - NaN,2007,1188.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0780567,Imagine That - Imagine That,2009,14532.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0783475,Getting Home - Luo ye gui gen,2007,1685.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0787442,The Attack - The Attack,2012,4235.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0791268,You're Gonna Miss Me - NaN,2005,1047.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0803057,The Promotion - NaN,2008,18566.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0803061,Red Dog - Red Dog,2011,17541.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0805185,Blood Trails - NaN,2006,1597.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0808230,Les deux mondes - Les deux mondes,2007,1333.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0810924,Knife Edge - NaN,2009,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0811106,The Ten - The Ten,2007,16593.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0816539,Jack Brooks: Monster Slayer - NaN,2007,6329.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0820111,Meatball Machine - NaN,2005,2036.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0820117,We Are Not Angels 3: Rock & Roll Strike Back - A3 - Rock'n'Roll uzvraca udarac,2006,2160.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0822833,"Sex, Party & Lies - Mentiras y gordas",2009,2464.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0823451,Dus Kahaniyaan - Dus Kahaniyaan,2007,1592.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0826027,XTC Just Don't Do It - NaN,2006,2156.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0834539,Fall Down Dead - Fall Down Dead,2007,1022.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0839739,The Beales of Grey Gardens - The Beales of Grey Gardens,2006,1169.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0839995,Superman II: The Richard Donner Cut - Superman II: The Richard Donner Cut,1980,15986.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0841108,Hannah Takes the Stairs - Hannah Takes the Stairs,2007,1958.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0843850,Finishing the Game - Finishing the Game: The Search for a New Bruce Lee,2007,1842.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0848228,The Avengers - NaN,2012,1321304.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0850677,Jack & Diane - NaN,2012,2850.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0884335,Chrysalis - Chrysalis,2007,2860.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0887971,While She Was Out - While She Was Out,2008,6790.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0889671,Trumbo - Trumbo,2007,1150.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0896872,The Whistleblower - The Whistleblower,2010,33088.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0900357,Boogeyman 2 - NaN,2007,8307.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0907134,"Basic Sanitation, the Movie - Saneamento Basico, O Filme",2007,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0914798,The Boy in the Striped Pajamas - NaN,2008,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0914863,Unthinkable - NaN,2010,86464.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0925130,Suryam - Suryam,2004,1174.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0936501,Taken - Taken,2008,584688.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0961117,Manufacturing Dissent - NaN,2007,2122.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0983193,The Adventures of Tintin - The Adventures of Tintin,2011,224897.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0984130,Miao Miao - NaN,2008,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt0995757,Summer Heat - NaN,2008,1459.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10006006,A Christmas Prince: The Royal Baby - NaN,2019,6204.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10015286,The Ringmaster - NaN,2019,2622.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10085338,Blood on Her Name - NaN,2019,1407.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1010445,Rich Kids - NaN,2007,1343.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10123970,Mother's Child - NaN,2020,1198.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1013860,Dylan Dog: Dead of Night - NaN,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1018764,One Piece: Baron Omatsuri and the Secret Island - NaN,2005,1734.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1020055,Night Train - NaN,2009,9237.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1020978,Naqaab - Naqaab,2007,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10228134,Jolt - NaN,2021,25475.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1022883,Pig Hunt - Pig Hunt,2008,2558.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10263320,Enes Batur 2 - Enes Batur Gercek Kahraman,2019,8612.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10307724,Madame Claude - Madame Claude,2021,3025.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1034303,Defiance - NaN,2008,144060.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1039952,Citizen - Citizen,2001,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10495746,Two Blue Stripes - NaN,2019,1130.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1050160,The Machine Girl - NaN,2008,10082.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10554232,Dara of Jasenovac - Dara iz Jasenovca,2020,79950.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1059980,Soccer Mom - Soccer Mom,2008,1199.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10687070,Mandela - NaN,2021,5957.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10699348,Rundfunk: Jachterwachter - Rundfunk: Jachterwachter,2020,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1070874,The Trial of the Chicago 7 - The Trial of the Chicago 7,2020,162565.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1074214,The Six Wives of Henry Lefay - NaN,2009,3212.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1078588,My Sister's Keeper - NaN,2009,91984.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10899402,Hideout - NaN,2021,3291.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10919132,Love Mocktail - NaN,2020,3077.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1093824,Encounters at the End of the World - Encounters at the End of the World,2007,18172.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1095174,New in Town - NaN,2009,22789.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1098226,Adrift in Tokyo - NaN,2007,2575.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1098327,Dragonball Evolution - Dragonball Evolution,2009,72810.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt10994688,The Binge - NaN,2020,3239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1107816,Giallo - NaN,2009,5494.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11167818,Turkler Geliyor: Adaletin Kilici - NaN,2019,1073.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1124052,City of Life and Death - Nanjing! Nanjing!,2009,10817.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11242218,Books of Blood - Books of Blood,2020,6472.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11253090,Annaatthe - NaN,2021,8423.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11271990,Ali & the Queens - Ali & the Queens,2021,1034.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1131729,The Boat That Rocked - The Boat That Rocked,2009,109704.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1133922,Crossing - Keurosing,2008,1181.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1135500,Homecoming - Homecoming,2009,4307.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11388278,A Week Away - A Week Away,2021,4039.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11486994,Incision - Incision,2020,2005.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11506284,Padre no hay mas que uno 2: La llegada de la suegra - NaN,2020,1176.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1152850,Wendy and Lucy - Wendy and Lucy,2008,17829.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1156398,Zombieland - NaN,2009,548159.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11580944,Seetimaarr - Seetimaarr,2021,1030.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1159922,Cheerful Weather for the Wedding - NaN,2012,2304.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1159961,Waking Sleeping Beauty - Waking Sleeping Beauty,2009,2951.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1161064,Super Capers: The Origins of Ed and the Missing Bullion - Super Capers: The Origins of Ed and the Missing Bullion,2009,1115.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1165293,Playing - Jogo de Cena,2007,1148.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11657662,The Witcher: Nightmare of the Wolf - NaN,2021,33216.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1178640,Beer for My Horses - Beer for My Horses,2008,1799.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1179071,The Orphan Killer - NaN,2011,1676.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1185442,Kurbaan - Kurbaan,2009,5029.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11881160,Gaia - NaN,2021,3788.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1188982,Jai Ho - NaN,2014,19185.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1190910,The Beacon - The Beacon,2009,1061.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1192628,Rango - NaN,2011,251495.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt11948256,Lift - NaN,2021,2795.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1223980,Two Eyes Staring - NaN,2010,1361.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt12335692,Last Man Down - NaN,2021,7042.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt12397078,Little Big Women - Gu wei,2020,2044.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1241316,Dare - NaN,2009,4221.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1242422,Celda 211 - Celda 211,2009,66218.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1248971,Cherrybomb - NaN,2009,7253.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt12592252,Songbird - Songbird,2020,8798.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1268987,Operation: Endgame - NaN,2010,10483.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1270835,Hatchet II - NaN,2010,13365.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt12747236,Do You Love Me As I Love You - Do You Love Me As I Love You,2020,1262.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1276105,Saint John of Las Vegas - NaN,2009,2872.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1278322,Colin - Colin,2008,1584.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1283887,Burning Palms - NaN,2010,2846.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt12882620,Evil Eye - Evil Eye,2020,3375.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1289403,The Guernsey Literary and Potato Peel Pie Society - NaN,2018,42097.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1290400,Double Identity - NaN,2009,2593.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1292703,Oye Lucky! Lucky Oye! - Oye Lucky! Lucky Oye!,2008,17140.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1307861,American Grindhouse - NaN,2010,2392.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13105824,My Missing Valentine - Xiao shi de qing ren jie,2020,1322.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1311067,Halloween II - Halloween II,2009,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1326733,The Art of the Steal - NaN,2009,2374.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13281312,"Wrong Place, Wrong Time - Wrong Place, Wrong Time",2021,1807.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13382698,Trigger Point - Trigger Point,2021,1858.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13392012,Demonic - Demonic,2021,3144.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1340838,Raaz: The Mystery Continues - Raaz: The Mystery Continues,2009,3580.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1343046,Detective Conan: The Raven Chaser - Meitantei Conan: Shikkoku no chaser,2009,1727.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13462900,The Battle at Lake Changjin - Zhang jin hu,2021,1340.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13551614,Kuruthi - Kuruthi,2021,4966.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt13622180,Mayor Pete - Mayor Pete,2021,1250.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1365471,The Christmas Party - NaN,2009,1394.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1366344,The Sitter - NaN,2011,69951.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1379182,Dogtooth - Kynodontas,2009,90694.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1389137,We Bought a Zoo - NaN,2011,140194.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1396221,Passion Play - NaN,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1396227,The Wild and Wonderful Whites of West Virginia - NaN,2009,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1401236,The Fields - NaN,2011,1785.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt14034966,Wheel of Fortune and Fantasy - NaN,2021,1477.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1407084,Twelve - NaN,2010,12154.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1411704,Hop - NaN,2011,33151.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1422122,Tales from the Golden Age - Amintiri din epoca de aur,2009,5478.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1422184,10 to 11 - NaN,2009,2610.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1451763,Villu - Villu,2009,4010.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1455151,My Afternoons with Margueritte - La tete en friche,2010,7138.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1456660,No Man's Land - Wu ren qu,2013,2293.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1485698,The Dark House - NaN,2009,4547.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1490785,I Saw the Light - I Saw the Light,2015,7053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt15062890,Ja - Ja,2021,1286.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt15094392,Happier Than Ever: A Love Letter to Los Angeles - Happier Than Ever: A Love Letter to Los Angeles,2021,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1509732,Aisha - Aisha,2010,4088.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1514041,4.3.2.1. - 4.3.2.1.,2010,10656.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1524134,Orcs! - Orcs!,2011,1507.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1532503,Beginners - Beginners,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1545328,Stand Off - Whole Lotta Sole,2011,2248.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1547230,Judy Moody and the Not Bummer Summer - NaN,2011,3150.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1559036,The Motel Life - The Motel Life,2012,3648.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1564777,Fallen - Fallen,2016,14353.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1588358,Brother - NaN,2010,2556.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1590129,Natarang - Natarang,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1600429,Old 37 - NaN,2015,1359.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1601814,Busra - NaN,2010,1055.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt16027122,Theeram - Theeram,2021,2004.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1610996,Absentia - NaN,2011,18074.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1612608,The Italian - L'Italien,2010,1504.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1617178,Little Rose - Rozyczka,2010,1366.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1623780,The Legend of the Titanic - NaN,1999,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1634121,Intruders - Intruders,2011,20571.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1650042,Dead Season - Dead Season,2012,3135.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1650844,Escaping Tel Aviv - Welad el-Amm,2009,5494.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1666185,All Eyez on Me - All Eyez on Me,2017,22460.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1667150,Wo zhi nv ren xin - NaN,2011,1289.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1670269,The Chateau Meroux - NaN,2011,1237.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1677720,Ready Player One - NaN,2018,405236.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1686067,The Source - La source des femmes,2011,3943.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1713476,The Bay - The Bay,2012,26935.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1715802,How to Die in Oregon - NaN,2011,1903.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1716753,Monster Brawl - Monster Brawl,2011,2428.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1720254,Thank You - NaN,2011,5656.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1722426,Auschwitz - NaN,2011,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1727824,Bohemian Rhapsody - NaN,2018,497377.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1728976,Episode 50 - NaN,2011,1862.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1731701,Barely Lethal - Barely Lethal,2015,21118.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1737674,PressPausePlay - PressPausePlay,2011,1500.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1745672,Children of the Corn: Genesis - Children of the Corn: Genesis,2011,3337.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1756476,Dookudu - Dookudu,2011,13122.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1756799,The Day - The Day,2011,12658.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1776222,Kauwboy - Kauwboy,2012,2264.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1781866,Muita Calma Nessa Hora - NaN,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1783244,Battle of Warsaw 1920 - 1920 Bitwa Warszawska,2011,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1784538,Miss Representation - Miss Representation,2011,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1792543,The Reunion - NaN,2011,4068.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1793931,The Tuche Family - Les Tuche,2011,3251.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1810602,If You Are the One 2 - NaN,2010,1484.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1814642,Bad Hero - NaN,2010,2304.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1814836,Project Nim - Project Nim,2011,8399.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1817232,Phineas and Ferb the Movie: Candace Against the Universe - Phineas and Ferb the Movie: Candace Against the Universe,2020,3908.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1821317,Aadukalam - Aadukalam,2011,5875.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1822266,Mumbai Pune Mumbai - Mumbai Pune Mumbai,2010,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1826019,The Wind of Al Amal - NaN,2013,1221.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1827578,The End of Love - The End of Love,2012,1768.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1847731,Tomboy - NaN,2011,19800.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1857766,Games of Clouds & Rain - NaN,2013,1266.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1863192,Corn Island - NaN,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1863201,Dark Circles - Dark Circles,2013,4203.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1865393,Hellbenders - NaN,2012,1597.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1867091,The Reconstruction of William Zero - The Reconstruction of William Zero,2014,1173.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1869425,Filly Brown - Filly Brown,2012,1117.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1869682,SuckSeed - NaN,2011,2295.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1883367,The Human Centipede III (Final Sequence) - The Human Centipede III (Final Sequence),2015,16107.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1890375,Crawlspace - Crawlspace,2012,3016.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1891769,The Painting - Le tableau,2011,4131.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1907731,Nobody Walks - Nobody Walks,2012,4939.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1924396,The Best Offer - La migliore offerta,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1925518,The Protector 2 - NaN,2013,6944.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1927068,Shameless - NaN,2012,1181.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1927077,Letters to Santa - NaN,2011,4296.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1935156,Jodorowsky's Dune - NaN,2013,24274.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1949548,Heroine - Heroine,2012,4277.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1954701,A Coffee in Berlin - Oh Boy,2012,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt1980986,Housefull 2 - Housefull 2,2012,14160.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2005151,War Dogs - NaN,2016,198165.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2011276,Banshee Chapter - NaN,2013,9791.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2034139,The Last Exorcism Part II - The Last Exorcism Part II,2013,16186.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2057920,It Watches - It Watches,2016,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2062969,Sister - L'enfant d'en haut,2012,6618.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2064849,London Paris New York - NaN,2012,3739.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2064968,The Longest Week - NaN,2014,12319.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2076372,Toad Road - NaN,2012,1285.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2082415,Saints and Soldiers: Airborne Creed - Saints and Soldiers: Airborne Creed,2012,3974.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2083379,A Dark Truth - NaN,2012,5971.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2084093,Ashley - NaN,2013,1061.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2124908,Shut Up and Play the Hits - Shut Up and Play the Hits,2012,2753.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2125685,Mockingbird - NaN,2014,2377.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2153891,Metal Warrior - NaN,2011,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2170369,Dudes & Dragons - Dragon Warriors,2015,1071.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2170667,Wheels - Wheels,2014,23664.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2177511,Caesar Must Die - NaN,2012,6459.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2191082,A Promise - A Promise,2013,4101.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2193265,Welcome to the Jungle - Welcome to the Jungle,2013,12973.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2193364,I Am Shahid Afridi - NaN,2013,4561.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2193418,Hammer of the Gods - Hammer of the Gods,2013,8002.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2194499,About Time - About Time,2013,327265.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2194724,Puella Magi Madoka Magica the Movie Part 2: Eternal - Gekijou-ban Mahou Shoujo Madoka*Magica: [Kouhen] Eien no monogatari,2012,1419.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2211174,Ammaa Ki Boli - Ammaa Ki Boli,2021,1321.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2231489,Saint Seiya: Legend of Sanctuary - NaN,2014,4330.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2238837,Kadhalil Sodhappuvadhu Yeppadi - NaN,2012,1391.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2262175,Svengali - NaN,2013,1088.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2265534,The Lifeguard - NaN,2013,14504.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2276778,Serial Teachers - NaN,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2279786,Johan Falk: Kodnamn - Lisa - NaN,2012,3125.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2282016,The Possession of Michael King - NaN,2014,12255.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2297031,TimeScapes - TimeScapes,2012,1196.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2297108,100 Ghost Street: The Return of Richard Speck - NaN,2012,1098.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2304426,The Selfish Giant - NaN,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2318527,Hell Baby - NaN,2013,9288.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2322420,Dabbe: Demon Possession - NaN,2012,3799.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2350496,The Lunchbox - The Lunchbox,2013,53933.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2357958,Marighella - Marighella,2012,3401.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2361509,The Intern - NaN,2015,239674.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2364897,The Disappointments Room - The Disappointments Room,2016,9697.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2370248,Short Term 12 - NaN,2013,85709.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2372251,Down a Dark Hall - Down a Dark Hall,2018,13763.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2375559,1: Nenokkadine - 1 - Nenokkadine,2014,44499.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2381213,Sundown - Sundown,2016,2333.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2381335,Fed Up - Fed Up,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2381989,Skytten - NaN,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2387589,The Girl on the Train - The Girl on the Train,2014,1005.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2396224,It's Such a Beautiful Day - It's Such a Beautiful Day,2012,12827.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2396429,Dead Sushi - NaN,2012,1529.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2396495,Fresh Meat - NaN,2012,1885.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2396690,Barbie: The Princess & the Popstar - NaN,2012,1847.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2404461,The Past - NaN,2013,47717.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2409642,Ghetuputra Komola - Ghetuputra Komola,2012,1706.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2415946,Oglum bak git - NaN,2012,1977.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2420166,The World Made Straight - NaN,2015,1929.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2445568,Outlawed - Outlawed,2018,3013.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2468774,Confession of Murder - Nae-ga sal-in-beom-i-da,2012,10029.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2478746,Gonzaga: From Father to Son - Gonzaga: De Pai pra Filho,2012,1161.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2497808,Ambushed - Ambushed,2013,1608.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2505938,Good Ol' Freda - NaN,2013,1963.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2572632,Vendetta - Vendetta,2013,3925.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2576852,The Tale of The Princess Kaguya - Kaguya-hime no monogatari,2013,43327.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2577150,Traffic Department - Drogowka,2012,4559.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2620952,Player - NaN,2013,1098.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2628316,Green Street 3: Never Back Down - Green Street 3: Never Back Down,2013,5582.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2633076,Dig Two Graves - Dig Two Graves,2014,3211.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2650718,Matterhorn - NaN,2013,1819.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2713642,Jersey Shore Massacre - Jersey Shore Massacre,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2737310,Mistaken for Strangers - Mistaken for Strangers,2013,4424.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2785390,America: Imagine the World Without Her - America: Imagine the World Without Her,2014,6751.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2795078,Gasland Part II - Gasland Part II,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2803940,Misogynist - Misogynist,2013,4703.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2871010,Sonali Cable - NaN,2014,1028.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2893780,Convict - Convict,2014,1496.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2905838,Bang Bang - NaN,2014,23177.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2920294,Cigarette Soup - NaN,2017,1221.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2933474,Superfast! - NaN,2015,9328.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2967856,Another Day of Life - NaN,2018,2255.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt2969656,Cold Eyes - NaN,2013,7352.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3028018,Blue Exorcist: The Movie - Ao no ekusoshisuto: Gekijoban,2012,2114.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3032282,Eden - NaN,2014,3051.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3088580,Phantom - Phantom,2013,1186.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3098306,French Women - NaN,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3107070,Believe Me - Believe Me,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3148552,Convergence - Convergence,2017,1010.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3214248,All Relative - NaN,2014,1595.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3234084,I Do... Until I Don't - I Do... Until I Don't,2017,2464.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3265262,"Pulp: A Film About Life, Death & Supermarkets - Pulp: A Film About Life, Death and Supermarkets",2014,1677.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3266724,Black Rose - Black Rose,2014,2469.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3286052,The Blackcoat's Daughter - NaN,2015,21124.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3291148,Just Jim - NaN,2015,1821.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3305844,Hellions - Hellions,2015,3237.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3327994,Human - NaN,2015,8112.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3341084,The Four 2 - NaN,2013,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3353060,Stealing Cars - Stealing Cars,2015,1196.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3395608,O21 - O21,2014,3108.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3404246,Bright Night - Nachthelle,2014,1232.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3418604,The Sinking of Van Der Wijck - NaN,2013,1223.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3422462,Bangistan - NaN,2015,1235.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3433074,Mrs. Brown's Boys D'Movie - NaN,2014,5238.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3442990,Lila & Eve - Lila & Eve,2015,8344.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3462696,Tekken: Kazuya's Revenge - NaN,2014,2522.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3499458,The Walking Deceased - NaN,2015,3270.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3511596,Close Range - Close Range,2015,4991.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3529664,Mountain Men - Mountain Men,2014,1619.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3558642,"Nativity 3: Dude, Where's My Donkey?! - NaN",2014,1705.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3562786,Uncaged - Uncaged,2016,1989.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3565264,Thegidi - Thegidi,2014,2671.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3569970,Attack of the Lederhosen Zombies - NaN,2016,1651.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3593120,The Device - The Device,2014,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3685236,Ibiza - NaN,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3707114,Janis: Little Girl Blue - NaN,2015,5296.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3725026,Kanchana 2 - Kanchana 2,2015,1613.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3810602,B.O.K.: Bi O Kalmisti - NaN,2016,1847.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3903852,Vigilante Diaries - Vigilante Diaries,2016,6661.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3921694,The Madness Within - NaN,2019,1017.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt3958780,Equity - NaN,2016,3582.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4012424,The Movie of My Life - O Filme da Minha Vida,2017,1883.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4016934,The Handmaiden - Ah-ga-ssi,2016,131442.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4026034,Hired Gun - Hired Gun,2016,1951.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4112334,Current Theega - Current Theega,2014,1036.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4146622,Rampage: President Down - NaN,2016,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4169250,M.S. Dhoni: The Untold Story - NaN,2016,49328.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4207112,Score: A Film Music Documentary - NaN,2016,4386.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4246894,The Paradise Suite - NaN,2015,1655.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4264426,Bite - Bite,2015,4871.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4323594,I'm No Longer Here - NaN,2019,7232.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4357394,Tau - Tau,2018,29853.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4392454,13 Cameras - NaN,2015,5242.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4420704,Kedi - NaN,2016,14053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4429194,Paris Can Wait - Bonjour Anne,2016,8398.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4441150,Salt and Fire - Salt and Fire,2016,2679.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4446258,Romeo Juliet - NaN,2015,1174.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4466864,The New Adventures of Aladdin - NaN,2015,2239.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4566574,Mega Shark vs. Kolossus - Mega Shark vs. Kolossus,2015,1599.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4587366,Eliminators - NaN,2016,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4595882,Can You Ever Forgive Me? - Can You Ever Forgive Me?,2018,50221.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4610748,Devil's Gate - NaN,2017,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4647900,I Am Bolt - I Am Bolt,2016,3358.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4659056,The Day Will Come - Der kommer en dag,2016,4415.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4696502,No estamos solos - No estamos solos,2016,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4698684,Hunt for the Wilderpeople - Hunt for the Wilderpeople,2016,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4711924,Monolith - Monolith,2016,1969.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4742556,Accidentally Engaged - Accidental Engagement,2016,2172.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4743226,Air Strike - NaN,2018,4229.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4771932,The Happiest Day in the Life of Olli Maki - Hymyileva mies,2016,4421.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4807950,Cherry Pop - NaN,2017,1467.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4814290,Te3n - NaN,2016,12671.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4866448,Most Beautiful Island - Most Beautiful Island,2017,3314.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4881430,Strip Club Massacre - Strip Club Massacre,2017,2505.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt4971408,Await Further Instructions - NaN,2018,8253.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5030402,Little Boxes - NaN,2016,1868.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5037840,Drunk Parents - NaN,2019,6980.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5078188,The Tag-Along - Hong yi xiao nu hai,2015,1766.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5091612,A Bag of Marbles - NaN,2017,5363.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5097070,Dancer - Dancer,2016,2851.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5104080,The Heaven None Missed - Surga Yang Tak Dirindukan,2015,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5116302,Togo - NaN,2019,44310.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5117222,Notes on Blindness - Notes on Blindness,2016,2081.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5128826,The Alchemist Cookbook - NaN,2016,1473.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5143226,12 Feet Deep - 12 Feet Deep,2017,17527.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5160954,The 5th Kind - The 5th Kind,2017,1776.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5164184,In Darkness - NaN,2018,12911.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5178964,Soldier's Lullaby - NaN,2018,1370.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5213534,Oasis: Supersonic - NaN,2016,11176.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5226436,The Fourth Phase - NaN,2016,1430.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5259822,Tesla - Tesla,2020,8173.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5278596,Weiner - NaN,2016,10053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5280684,The Ice Cream Truck - The Ice Cream Truck,2017,2965.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5354458,Conspiracy Theory - NaN,2016,1403.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5446610,The Tenth Man - NaN,2016,1065.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5456798,Mythica: The Iron Crown - Mythica: The Iron Crown,2016,1554.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5457484,Cabin 28 - Cabin 28,2017,1096.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5544384,Sword Art Online the Movie: Ordinal Scale - Gekijo-ban Sodo Ato Onrain: Sword Art Online - Odinaru sukeru -,2017,7436.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5562070,Wish Dragon - Wish Dragon,2021,21039.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5584796,Tehran Taboo - Teheran Tabu,2017,4069.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5600714,Laal Rang - NaN,2016,4520.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5608000,Boyne Falls - NaN,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5631456,Just Like Our Parents - Como Nossos Pais,2017,2032.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5658296,Sperm Whale: Roya's Selection - Sperm Whale: Roya's Selection,2017,1973.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5668770,Mardaani 2 - NaN,2019,8867.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5698320,Euphoria - NaN,2017,4063.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5707048,Loveling - NaN,2018,1512.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5755606,Banjo - Banjo,2016,1157.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5768992,The Academy of Magic - NaN,2020,2985.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5770430,Ozzy - Ozzy,2016,2267.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5776858,Phantom Thread - Phantom Thread,2017,122327.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5781458,Diggerz: Black Lung Rises - Diggerz: Black Lung Rises,2017,1107.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5804948,With Open Arms - NaN,2017,3121.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5807330,Tread - Tread,2020,2605.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5849148,Appa - Appa,2016,1329.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5869350,Morran & Tobias - Som en skank fran ovan - NaN,2016,1565.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5870084,Beyond Brotherhood - Mas que hermanos,2017,1253.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5893332,Sandy Wexler - Sandy Wexler,2017,16154.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5911032,The Hunting - NaN,2017,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5919756,Disappearance at Clifton Hill - NaN,2019,2515.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5954462,Lumiere! - Lumiere!,2016,1337.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt5998104,Aanandam - Aanandam,2016,1885.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6102104,The Ride - NaN,2018,1193.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6142496,6 Balloons - NaN,2018,3993.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6170506,Beast of Burden - NaN,2018,2852.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6214468,The Russian Bride - NaN,2019,5049.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6275262,Vodka Diaries - Vodka Diaries,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6288694,Acts of Vengeance - NaN,2017,11615.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6388082,My Annoying Brother - Hyeong,2016,3060.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6409416,The Elder One - Moothon,2019,1907.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6428676,Wonder Park - NaN,2019,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6469548,The Head Hunter - The Head Hunter,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6516314,Piercing - NaN,2018,7235.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6525952,Enemy Within - Enemy Within,2019,2008.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6555772,"Love, Surreal and Odd - Tatlim Tatlim",2017,3128.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6576556,The Silent Revolution - Das schweigende Klassenzimmer,2018,4869.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6613952,Encounter - NaN,2018,1279.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6708044,The Tribe - NaN,2018,2515.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6736198,Ready to Mingle - NaN,2019,2262.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6745550,Exit 0 - Exit 0,2019,12249.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6776462,A Man of Integrity - NaN,2017,1868.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6848602,Til Death Do Us Part - Til Death Do Us Part,2017,1298.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6854672,Battle - NaN,2018,4053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6904062,Real - NaN,2017,1215.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6966044,Segfault - Segfault,2018,1041.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6978954,Pal Pal Dil Ke Paas - Pal Pal Dil Ke Paas,2019,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt6999052,Mario - Mario,2018,3933.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7149066,The Sonata - NaN,2018,1232.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7242142,Blindspotting - NaN,2018,29854.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7263040,Mark of the Devil - La Marca del Demonio,2020,2171.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7282278,Long Lost - Long Lost,2018,1081.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7308086,Desire - Desearas al hombre de tu hermana,2017,1557.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7375304,Ouija House - Ouija House,2018,1110.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7459182,Wave of Crimes - NaN,2018,1494.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7485048,Super 30 - NaN,2019,27714.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7526338,Damat Takimi - Damat Takimi,2017,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7533878,Sen Kiminle Dans Ediyorsun - Sen Kiminle Dans Ediyorsun,2017,2015.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7562630,Minsara Kanna - Minsara Kanna,1999,1009.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7588160,Ketenpere - NaN,2017,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7600704,Boys vs. Girls - NaN,2019,2537.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7609114,Yamla Pagla Deewana Phir Se... - Yamla Pagla Deewana Phir Se...,2018,1177.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7610008,Secret Ingredient - Iscelitel,2017,1276.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7612032,Art of the Dead - NaN,2019,1819.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7624840,Paharganj - NaN,2019,2668.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7681902,Won't You Be My Neighbor? - Won't You Be My Neighbor?,2018,24769.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7690762,The Pact - El pacto,2018,1161.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7730102,Big Kill - Big Kill,2019,1209.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7771454,Hallowed Ground - NaN,2019,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7772582,Never Rarely Sometimes Always - Never Rarely Sometimes Always,2020,24618.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7777196,Thackeray - Thackeray,2019,3189.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7897478,Damascus Under Fire - NaN,2018,2233.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7919680,Karwaan - NaN,2018,14890.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt7974772,A Sniper's War - NaN,2018,7950.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8072400,Hello Guru Prema Kosame - NaN,2018,2301.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8080556,The Director and the Jedi - NaN,2018,1037.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8081566,Vijay Superum Pournamiyum - Vijay Superum Pournamiyum,2019,1379.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8097306,Nobody's Fool - Nobody's Fool,2018,7351.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8171974,Battle of the Classes - NaN,2019,1053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8269248,Vakeel Saab - NaN,2021,11087.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8291224,Uri: The Surgical Strike - NaN,2019,53894.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8302382,Krack - Krack,2021,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8348022,Skin Walker - Skin Walker,2019,4516.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8358220,After Midnight - NaN,2019,3531.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8385474,A Dog's Journey - NaN,2019,22611.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8399690,Anthropocene: The Human Epoch - Anthropocene: The Human Epoch,2018,1726.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8402090,Cumali Ceber 2 - NaN,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8436026,A Fortunate Man - NaN,2018,5580.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8655738,Eternal Code - NaN,2019,4783.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8739582,Almost Love - Sell By,2019,1008.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8747160,The Block Island Sound - The Block Island Sound,2020,6881.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8769848,The Tomorrow Man - The Tomorrow Man,2019,1677.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8784956,Ava - Ava,2020,50180.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8856470,Pokemon: Mewtwo Strikes Back - Evolution - NaN,2019,5152.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8886670,The Father Who Moves Mountains - Tata muta muntii,2021,2921.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8887784,A Perfect Host - Adonis Complex,2019,1669.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8902990,The Sky Is Pink - The Sky Is Pink,2019,8285.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt8991264,Hoaxed - Hoaxed,2019,1302.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9008642,Notuku Potu - Notuku Potu,2017,4423.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9056818,Last Breath - NaN,2019,5047.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9058654,Dinner in America - NaN,2020,1857.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9203168,Moromete Family: On the Edge of Time - NaN,2018,1680.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9207700,Made in Italy - NaN,2020,7053.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9316022,Struggle: The Life and Lost Art of Szukalski - NaN,2018,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9430698,One Piece: Stampede - NaN,2019,5109.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9441638,The Big Ugly - NaN,2020,5780.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9495690,Pagalpanti - Pagalpanti,2019,2331.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9519642,The Wedding Unplanner - NaN,2020,NaN,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
+tt9526826,Android Kunjappan Ver 5.25 - Android Kunjappan Version 5.25,2019,5271.0,Unknown,Unknown,Unknown,-1,-1,-1,-1,Unknown,-1,-1,Unknown,Unknown
